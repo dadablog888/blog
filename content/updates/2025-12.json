@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-10-21T23:23:39+09:00",
+  "coverage": {
+    "pagesScanned": 2,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 60,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "224098139263"
+  ],
+  "new": 1,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2025-12",
+  "posts": [
+    {
+      "id": "224098139263",
+      "title": "1학기 마무리",
+      "publishedAt": "2025-12-04T15:57+09:00",
+      "sourceHash": "312107783f53271ac501b8c85e19ebe427dd88ae49295de5049ea5b5fab129d7",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

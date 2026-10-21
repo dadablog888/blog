@@ -1,0 +1,54 @@
+{
+  "checkedAt": "2026-10-21T23:21:32+09:00",
+  "coverage": {
+    "pagesScanned": 2,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 60,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223966019135",
+    "223974583003",
+    "223977257787",
+    "223988693050"
+  ],
+  "new": 4,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2025-08",
+  "posts": [
+    {
+      "id": "223966019135",
+      "title": "折杨柳 절양류 - 萧绎 소역",
+      "publishedAt": "2025-08-11T00:34+09:00",
+      "sourceHash": "df710f41ce9469f9ffba430cfee54a87442c0935f622ec49ee1363aea0dd3e29",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223974583003",
+      "title": "内卷，躺平，润，人矿，献忠事件",
+      "publishedAt": "2025-08-18T17:08+09:00",
+      "sourceHash": "4ea45bd331de45893e7835e983232ccd04320869b0837ffe4b15397d0a24a129",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223977257787",
+      "title": "영어시험.",
+      "publishedAt": "2025-08-20T17:45+09:00",
+      "sourceHash": "c771e793b8ed71225d65864e3968b9c2820e02a1a7369f33ed309acb2ce1d6b8",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223988693050",
+      "title": "햄스터 중국어로? 金丝熊，仓鼠 (feat.김햄찌아바타)",
+      "publishedAt": "2025-08-30T10:33+09:00",
+      "sourceHash": "6f3741d574f22e67eab808db40560687e04074bd6f393d1e4f95e7d464eed5f9",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-10-21T23:23:03+09:00",
+  "coverage": {
+    "pagesScanned": 2,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 60,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "224068056722",
+    "224074756038",
+    "224085204131"
+  ],
+  "new": 3,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2025-11",
+  "posts": [
+    {
+      "id": "224068056722",
+      "title": "🚀 MTPE 에서 AIPE로 : GenAI 시대, 번역의 룰이 바뀌다",
+      "publishedAt": "2025-11-07T15:17+09:00",
+      "sourceHash": "48862cd3b0fc63b5006ece2d55d61f89c22b40ef8134308b13f13f647d60ac2b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224074756038",
+      "title": "번역에서 AI 도움 받기",
+      "publishedAt": "2025-11-13T15:19+09:00",
+      "sourceHash": "965f283a4af155e64bf317feb99e9356a49fcf1567c32bfa02de3dc25b2ebebe",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224085204131",
+      "title": "그림 만들기 - 제미나이3",
+      "publishedAt": "2025-11-23T13:56+09:00",
+      "sourceHash": "7af3b071b4bfc60d8760dd668671edaa086f3ad8c7a397fae0ff144c87dc9f60",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

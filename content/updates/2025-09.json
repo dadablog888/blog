@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-21T23:22:17+09:00",
+  "coverage": {
+    "pagesScanned": 2,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 60,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "224007616447",
+    "224023021097"
+  ],
+  "new": 2,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2025-09",
+  "posts": [
+    {
+      "id": "224007616447",
+      "title": "통대박사 1학기 시작",
+      "publishedAt": "2025-09-14T17:33+09:00",
+      "sourceHash": "4280b1dc3120627a5de4857f1e304e072cf34e11e4f0c9ac7b5c1680cdbc651d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224023021097",
+      "title": "논문 요약하기",
+      "publishedAt": "2025-09-26T21:32+09:00",
+      "sourceHash": "d41674f35c1dda3f15a731e34c574e84dc37de2ced8f5113cb8f3e01b21ca3cb",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

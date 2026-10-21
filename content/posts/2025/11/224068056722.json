@@ -1,0 +1,33 @@
+{
+  "id": "224068056722",
+  "slug": "224068056722",
+  "title": "MTPE에서 AIPE로, 논문에서 읽은 번역가의 협업 역량",
+  "topic": "translation",
+  "description": "중국 논문을 읽으며 MTPE와 AIPE를 비교한 발제 준비 기록. 프롬프트와 비판적 평가, 기술 윤리에 관한 논의를 소개합니다.",
+  "summary": "번역 결과를 고치는 일에서 AI와 대화하며 작업을 이끄는 일로. 새로운 용어를 읽으며 번역 교육과 자신의 준비 방향을 생각한 글입니다.",
+  "keywords": [
+    "MTPE AIPE",
+    "생성형 AI 번역",
+    "번역 리터러시"
+  ],
+  "sections": [
+    {
+      "heading": "후편집을 넘어 상호작용으로",
+      "text": "작성자는 발제를 준비하며 중국 논문에서 만난 AIPE를 AI의 도움으로 정리합니다. 기존 기계번역 후편집과 비교해 프롬프트로 대안을 묻고 작업을 조정하는 방식을 주요 차이로 설명합니다."
+    },
+    {
+      "heading": "새로운 역할에 필요한 판단",
+      "text": "도구의 편향과 오류, 불투명성에 관한 문제와 언어·전문 분야·기술을 함께 배우는 필요성을 살핍니다. 저작권과 데이터 관리도 논문에 소개된 쟁점으로 다루며, 새로운 역량을 준비하겠다는 개인적 다짐으로 이어집니다."
+    }
+  ],
+  "sourceUrl": "https://blog.naver.com/dadablog888/224068056722",
+  "originalTitle": "🚀 MTPE 에서 AIPE로 : GenAI 시대, 번역의 룰이 바뀌다",
+  "originalCategory": "통번역 이야기",
+  "sourceHash": "48862cd3b0fc63b5006ece2d55d61f89c22b40ef8134308b13f13f647d60ac2b",
+  "publishedPrecision": "minute",
+  "publishedAt": "2025-11-07T15:17+09:00",
+  "introUpdatedOn": "2026-10-21",
+  "sourceCheckedAt": "2026-10-21T23:23:03+09:00",
+  "takeaways": [],
+  "related": []
+}
