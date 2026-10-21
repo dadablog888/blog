@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-21T23:01:38+09:00",
+  "coverage": {
+    "pagesScanned": 2,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 60,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "224130454181",
+    "224132669048",
+    "224132924116",
+    "224134027429",
+    "224136315799",
+    "224158609409"
+  ],
+  "new": 6,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2026-01",
+  "posts": [
+    {
+      "id": "224130454181",
+      "title": "연말연시",
+      "publishedAt": "2026-01-01T15:24+09:00",
+      "sourceHash": "9d29d2022912421207e13f89e166e208d552c166f076af78e3fa80f5d26f4d7e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224132669048",
+      "title": "소바 중국어로? 日式荞麦面（삼동소바 본점）",
+      "publishedAt": "2026-01-03T12:25+09:00",
+      "sourceHash": "088cc449003d8034150cae6302031d411d22510ba44f9388f53fbe18c6f3fdb0",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224132924116",
+      "title": "대통령 인터뷰_专访韩国总统李在明 | CCTV「高端访谈」20260102",
+      "publishedAt": "2026-01-03T17:13+09:00",
+      "sourceHash": "2353913250a788296fc8248f5d78192e4c02b05acf585121f6f2759a93acd914",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224134027429",
+      "title": "안중근 \"장탄일성 선조일본\" 뜻_경기도박물관",
+      "publishedAt": "2026-01-04T19:26+09:00",
+      "sourceHash": "fe6644888f430ee959db8832d55d65965ea331a9b3ebd3624c5346ad0e8edded",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224136315799",
+      "title": "주사위, 키링 중국어로? 骰子, 包挂",
+      "publishedAt": "2026-01-06T13:40+09:00",
+      "sourceHash": "59d981e8ee32ce6ce44d51a9062c9f97bff1d473aa56a62258efb93e25801f1a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224158609409",
+      "title": "赛事经济, 村超 - 춘차오, 축구에 진심",
+      "publishedAt": "2026-01-24T23:54+09:00",
+      "sourceHash": "af9261efe7f45e2746412a045f9b21e13f0e0fe7fba21cfedc08b21464dd5cba",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

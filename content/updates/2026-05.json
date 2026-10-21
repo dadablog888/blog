@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-10-21T23:04:34+09:00",
+  "coverage": {
+    "pagesScanned": 2,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 60,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "224279407077"
+  ],
+  "new": 1,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2026-05",
+  "posts": [
+    {
+      "id": "224279407077",
+      "title": "통번역사는 어떤 직업분류에 속할까? 예술/디자인/방송직",
+      "publishedAt": "2026-05-08T23:14+09:00",
+      "sourceHash": "e6bba526cd85b891e1929586f90d5c66f4b736e6fbc80217c56e37176b2dfa67",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

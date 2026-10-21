@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-21T23:03:57+09:00",
+  "coverage": {
+    "pagesScanned": 2,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 60,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "224240375277",
+    "224264838636"
+  ],
+  "new": 2,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2026-04",
+  "posts": [
+    {
+      "id": "224240375277",
+      "title": "이대 벚꽃，一枝红杏出墙来",
+      "publishedAt": "2026-04-04T09:44+09:00",
+      "sourceHash": "47073f86b28f923ca49435852bb6060b41424321706a0568106029d2aa8ffa60",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224264838636",
+      "title": "퍼스널컬러 중국어로? 个人色彩",
+      "publishedAt": "2026-04-25T16:46+09:00",
+      "sourceHash": "c15798e23d9c08e7bd23303f9fd85bff4f8db06c8182581fe0086452591161f4",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

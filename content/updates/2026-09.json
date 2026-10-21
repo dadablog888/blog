@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-21T23:05:13+09:00",
+  "coverage": {
+    "pagesScanned": 1,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 30,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "224412942556",
+    "224413819594",
+    "224417948530",
+    "224421113252",
+    "224425589025",
+    "224426367535"
+  ],
+  "new": 6,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2026-09",
+  "posts": [
+    {
+      "id": "224412942556",
+      "title": "프레퍼스 다이어트 푸드 이대점 - 이대역 혼밥 이대 샐러드 맛집",
+      "publishedAt": "2026-09-15T21:40+09:00",
+      "sourceHash": "94203f4c06320d51bc07d3eed08c0feb3452bd95c590bdde43037f3700833aeb",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224413819594",
+      "title": "AI로 논문 검색하기 - 엑사 Exa",
+      "publishedAt": "2026-09-16T15:46+09:00",
+      "sourceHash": "2ca45d55b6bfb7d1c7f7faf0c2207d168eda0b258ba734a75062f51e4b768559",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224417948530",
+      "title": "와신상담 막대사탕 - 박물관 굿즈",
+      "publishedAt": "2026-09-20T20:16+09:00",
+      "sourceHash": "da0ce7a7132585389591f5e47cd4aa070fc919e856ebe2d7243ab05dcc133cef",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224421113252",
+      "title": "차백도는 왜 ‘차판다ChaPanda’가 아닐까 - 밀크티 메뉴판에서 발견한 번역의 묘미",
+      "publishedAt": "2026-09-23T17:34+09:00",
+      "sourceHash": "15326cd73a6c1bc828ab167e3efc6a986baf2a0d6352b2d2a0d53d1ef95b4e5d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224425589025",
+      "title": "가사 번역 - 소년이여 신화가 되어라",
+      "publishedAt": "2026-09-29T09:24+09:00",
+      "sourceHash": "24cf2268fd62dce0fedc074b2a5dab669d62ad3f143f0bbef03ea2fa11767f09",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224426367535",
+      "title": "토큰 중국어로? 词元(츠위안, token)",
+      "publishedAt": "2026-09-29T21:42+09:00",
+      "sourceHash": "53666825dcaf85aad65989a7acfb40dce7aa7b1b32cf424ad9868279bec6f149",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

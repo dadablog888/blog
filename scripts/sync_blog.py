@@ -241,6 +241,10 @@ def apply(period):
         post = json.loads(reviewed.read_text())
         if post.get('id') != row['id'] or post.get('sourceHash') != row['sourceHash']:
             raise ValueError('Reviewed content does not match the fetched source')
+        for key in ['title', 'description', 'summary', 'slug', 'topic', 'publishedAt', 'introUpdatedOn', 'sections', 'takeaways', 'keywords', 'related']:
+            if key not in post:
+                raise ValueError('Missing introduction field: ' + key)
+        date.fromisoformat(post['introUpdatedOn'])
         for key in ['originalTitle', 'originalCategory', 'sourceUrl']:
             if post.get(key) != source[key]:
                 raise ValueError('Reviewed source field mismatch: ' + key)

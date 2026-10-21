@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-10-21T23:03:19+09:00",
+  "coverage": {
+    "pagesScanned": 2,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 60,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "224197184761"
+  ],
+  "new": 1,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2026-02",
+  "posts": [
+    {
+      "id": "224197184761",
+      "title": "생일",
+      "publishedAt": "2026-02-26T21:37+09:00",
+      "sourceHash": "1e036672ffef193d50c7bec4aacb4a2d6e861bf2ed4e962ecd53c0da9a293d90",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

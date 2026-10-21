@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-10-21T23:03:40+09:00",
+  "coverage": {
+    "pagesScanned": 2,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 60,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "224216623429"
+  ],
+  "new": 1,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2026-03",
+  "posts": [
+    {
+      "id": "224216623429",
+      "title": "2학기 시작",
+      "publishedAt": "2026-03-14T23:52+09:00",
+      "sourceHash": "79098da717a36530fc864ff811912dc064ec04f49f97731b2dae08954fe10bb2",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

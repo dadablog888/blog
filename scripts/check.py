@@ -224,6 +224,7 @@ def check_growth():
         builder.ROOT = Path(directory)
         builder.POSTS = copy.deepcopy(original_posts)
         builder.build()
+        original_generated = set(builder.GENERATED)
         old_files = {p['slug']: (builder.ROOT / builder.post_path(p) / 'index.html').read_text() for p in original_posts}
         # Synthetic records remain entirely inside the temporary directory.
         for i in range(70):
@@ -263,7 +264,13 @@ def check_growth():
                     # The isolated fixture checks generated documents; CSS is shared unchanged.
                     if path.endswith('/') or path.endswith('.html'):
                         require(target.is_file(), 'Growth has an unreachable document: ' + path)
-        print(f'Growth checks: initial {len(original_posts)} + 70 temporary records, two-year transition, 31-day month pagination, topic pagination, unchanged old introductions and all document links.')
+        temporary_generated = set(builder.GENERATED)
+        builder.POSTS = original_posts
+        builder.build()
+        require(set(builder.GENERATED) == original_generated, 'Generated catalog did not return to the retained documents')
+        for obsolete in temporary_generated - original_generated:
+            require(not (builder.ROOT / obsolete).exists(), 'Stale generated document remains: ' + obsolete)
+        print(f'Growth checks: initial {len(original_posts)} + 70 temporary records, year/month pagination, unchanged old URLs, all document links and safe stale-page cleanup.')
 
 
 if __name__ == '__main__':
