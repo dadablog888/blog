@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-10-21T23:16:58+09:00",
+  "coverage": {
+    "pagesScanned": 3,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 90,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223827794773",
+    "223827922511",
+    "223831143792"
+  ],
+  "new": 3,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2025-04",
+  "posts": [
+    {
+      "id": "223827794773",
+      "title": "미국산 모든 수입품에 50% 추가 관세 부과 / 对原产于美国的所有进口商品再加征50%关税",
+      "publishedAt": "2025-04-09T20:58+09:00",
+      "sourceHash": "9d0fb171bd14888b2118ba5ff45d42178c726458770e219a313534f406aafcaa",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223827922511",
+      "title": "번역학",
+      "publishedAt": "2025-04-09T23:12+09:00",
+      "sourceHash": "20238a5ade00e34f57ff5756ddd94661aa0f445d8d63fbf0332787d60fbe7b47",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223831143792",
+      "title": "시경, 『陈风·月出』(진풍·월출) - 흰색",
+      "publishedAt": "2025-04-13T00:06+09:00",
+      "sourceHash": "3ee4f532c7e6e96738ec326dc1344fb0ee6aae762ea440218169a53e1248d1cf",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

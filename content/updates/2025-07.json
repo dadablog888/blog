@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-10-21T23:21:16+09:00",
+  "coverage": {
+    "pagesScanned": 2,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 60,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223942970415"
+  ],
+  "new": 1,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2025-07",
+  "posts": [
+    {
+      "id": "223942970415",
+      "title": "청력.. 청천벽력",
+      "publishedAt": "2025-07-22T16:15+09:00",
+      "sourceHash": "beb4678ee7b72dc229cb6b22bfeb4e37b5c7876f84b080f5141b4eefb6f92967",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

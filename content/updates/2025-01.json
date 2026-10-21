@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-10-21T23:13:49+09:00",
+  "coverage": {
+    "pagesScanned": 4,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 120,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223714867818",
+    "223726790825",
+    "223740143958",
+    "223741111045",
+    "223743041343"
+  ],
+  "new": 5,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2025-01",
+  "posts": [
+    {
+      "id": "223714867818",
+      "title": "베이징 여행 - 레전데일 호텔, 南城香 중국 아침식사",
+      "publishedAt": "2025-01-04T23:01+09:00",
+      "sourceHash": "7ced84762c5f00ac16816aef651f8caa7f1c728b7e33e2676eec756f183e379f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223726790825",
+      "title": "북경대 참관 예약 방법과 후기, 추억의 오도구 五道口, 맛집 용인거 龙人居",
+      "publishedAt": "2025-01-15T16:43+09:00",
+      "sourceHash": "5a1da227c4dc41da4295c10171edec70b597e399bf7a5c11cedf3609b71e8e3b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223740143958",
+      "title": "상하이타워 예약 방문 후기",
+      "publishedAt": "2025-01-27T17:33+09:00",
+      "sourceHash": "54ab186855782e1220d0fe6b625baccd5def8e2d39cc0628ee35f99a753b0bb2",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223741111045",
+      "title": "중국은 왜 커피가 아니라 밀크티를 좋아할까?",
+      "publishedAt": "2025-01-28T22:00+09:00",
+      "sourceHash": "f8ae890a82f819057de79c74337a7ef7487535501bc9270745fb9c81691564ce",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223743041343",
+      "title": "상하이 징라이 부쉐 호텔, w호텔 후기",
+      "publishedAt": "2025-01-31T11:22+09:00",
+      "sourceHash": "a29aadd3b3d55209633cdd784ade6caab374e41434e28b6a9fe579ab64820b07",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

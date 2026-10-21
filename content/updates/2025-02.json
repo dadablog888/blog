@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-21T23:14:50+09:00",
+  "coverage": {
+    "pagesScanned": 3,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 90,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223743833370",
+    "223746770606",
+    "223747323433",
+    "223749738794",
+    "223765957188",
+    "223769656205"
+  ],
+  "new": 6,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2025-02",
+  "posts": [
+    {
+      "id": "223743833370",
+      "title": "상하이 난징동루는 왜 이름이 난징(南京)일까?",
+      "publishedAt": "2025-02-01T00:59+09:00",
+      "sourceHash": "126f2dcce7a4964aa9de1fcadcf3911fe998a6f45f22ae3c0be8efa04025397b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223746770606",
+      "title": "베이징 여행 일정 추천 - 자금성, 천안문 국기 강하 降旗 관람 후기",
+      "publishedAt": "2025-02-04T00:25+09:00",
+      "sourceHash": "cfb600a93f44cc6d0435f2f6374fba9eb7f3f1d73c75247ac4c7552c07e62fca",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223747323433",
+      "title": "패왕차희 느낌 밀크티 만드는 꿀팁",
+      "publishedAt": "2025-02-04T14:05+09:00",
+      "sourceHash": "5a1a226c1a2524625410b0c069fa406a5bc9873ce10054650d5329132d049d5c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223749738794",
+      "title": "고문 번역 도와주는 AI",
+      "publishedAt": "2025-02-06T13:30+09:00",
+      "sourceHash": "83467648d2f6ecf5718adcb3efbe633ac2d2a8ff70a08e1ae6601c754e725cac",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223765957188",
+      "title": "韭菜合子 - 부추계란 납작만두",
+      "publishedAt": "2025-02-19T13:23+09:00",
+      "sourceHash": "0733de2916da62d0e3d04cee6500d14841f553e0508e264d621966eb6b9cff46",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223769656205",
+      "title": "善 착할 선, 착하다는 의미",
+      "publishedAt": "2025-02-22T15:41+09:00",
+      "sourceHash": "9e21ee5821241b5f5d874920f5486eb5b6b410590f9d384bd01c314e0069ac50",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "checkedAt": "2026-10-21T23:19:31+09:00",
+  "coverage": {
+    "pagesScanned": 3,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 90,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223887597168",
+    "223888145331",
+    "223890062273",
+    "223893459858",
+    "223897486667",
+    "223898622008",
+    "223901195810",
+    "223903216966",
+    "223903835421"
+  ],
+  "new": 9,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2025-06",
+  "posts": [
+    {
+      "id": "223887597168",
+      "title": "스모 중국어로? 相扑",
+      "publishedAt": "2025-06-03T22:17+09:00",
+      "sourceHash": "560fa35d829caba70557370b4ca307c0b5c31d1a03ffcece997bf5a49f282d87",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223888145331",
+      "title": "21대 대통령 취임 선서 연설문 gpt번역",
+      "publishedAt": "2025-06-04T12:09+09:00",
+      "sourceHash": "755acad12f8e285149edc14d88b9dbf76b638b10765e7fafa4e38d58805c27ba",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223890062273",
+      "title": "다시 통대.",
+      "publishedAt": "2025-06-06T00:12+09:00",
+      "sourceHash": "cafa79f30094a04c25564e81cb3d5994c642417f3597bcc6580f47331df8ce4c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223893459858",
+      "title": "드라마가 재미없는 이유",
+      "publishedAt": "2025-06-09T16:20+09:00",
+      "sourceHash": "fbcee20ce5a25e2e1c5ebae3dba2226b861cff0f6d6aa03a5ea5b67a790033aa",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223897486667",
+      "title": "중국 가수 산이춘(单依纯), <이백 李白>",
+      "publishedAt": "2025-06-13T00:17+09:00",
+      "sourceHash": "d6b0214c5a2a7de8fe83001c7695df7eeee081fef959a101185a5c71edfe4e38",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223898622008",
+      "title": "<珠玉>-单依纯 주옥-산이춘, 가사 해석",
+      "publishedAt": "2025-06-14T00:23+09:00",
+      "sourceHash": "c386db6c47629c4303f0c0fa921263f13c37e43303e473447a9c4ce8d9016afb",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223901195810",
+      "title": "고요함의 향기 安静的香气 - 류메이즈 刘梅子",
+      "publishedAt": "2025-06-16T17:41+09:00",
+      "sourceHash": "e1d66a67b14424a9251873da0cd132fae06e74703a4c0b654298a48a60c3946b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223903216966",
+      "title": "세계 유명 미술관 이름 중국어로?",
+      "publishedAt": "2025-06-18T11:17+09:00",
+      "sourceHash": "de7570bfc9306ef1e2d92f3f330e380a7b3dcaf4d4b1607b39359a9cfb5c05df",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223903835421",
+      "title": "코카콜라(可口可乐)는 커커컨라(蝌蝌啃蜡)였다.",
+      "publishedAt": "2025-06-18T20:25+09:00",
+      "sourceHash": "eb17fe431e78faa95a9853898d8df01912baa9f9f883a1e770ff1e3879fd1582",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

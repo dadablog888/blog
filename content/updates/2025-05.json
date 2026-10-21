@@ -1,0 +1,117 @@
+{
+  "checkedAt": "2026-10-21T23:17:40+09:00",
+  "coverage": {
+    "pagesScanned": 3,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 90,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223855146659",
+    "223856030312",
+    "223857085919",
+    "223857677545",
+    "223864648469",
+    "223865219861",
+    "223867083618",
+    "223868169520",
+    "223874761906",
+    "223876592630",
+    "223877438828"
+  ],
+  "new": 11,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2025-05",
+  "posts": [
+    {
+      "id": "223855146659",
+      "title": "chsi 중국학위인증 학신망 学信网",
+      "publishedAt": "2025-05-04T15:40+09:00",
+      "sourceHash": "ba0a332f80a9cc02b62652f9f260d05c46db0c26bf5c073837f93bf09ebfb4c6",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223856030312",
+      "title": "중국 MBTI - e人 i人",
+      "publishedAt": "2025-05-05T17:13+09:00",
+      "sourceHash": "af1056b5850ccf3f041cb62493d4073dc056fb0576f1a7760d6c01be8c47533f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223857085919",
+      "title": "연휴 끝.",
+      "publishedAt": "2025-05-06T20:56+09:00",
+      "sourceHash": "9b613a2a0889517211d59cae688e3e426a0c9228281d0765d3a844fcf0f81c4a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223857677545",
+      "title": "올해의 컬러 '모카무스' 중국어로? 摩卡慕斯",
+      "publishedAt": "2025-05-07T12:13+09:00",
+      "sourceHash": "0536e5cd997b14de6115370c25beffe49f542570a1ba7632ce9235d7837a4f17",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223864648469",
+      "title": "챗gpt랑 다이어트 하기.",
+      "publishedAt": "2025-05-13T21:47+09:00",
+      "sourceHash": "8bae7d9c12070b8c7fec0c887db6f88e7e30ec5528442feb6764411fd13b8f9c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223865219861",
+      "title": "옴니보어 - 杂食者 / 全能消费者, 트렌드코리아 2025 키워드, 식성분류",
+      "publishedAt": "2025-05-14T12:27+09:00",
+      "sourceHash": "f8f7f94f7fd639395eb3fcb9fb0046821b3c7457e7c47f80827e8bda423da94d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223867083618",
+      "title": "스승의날 教师节, 휘낭시에 费南雪",
+      "publishedAt": "2025-05-16T00:19+09:00",
+      "sourceHash": "d7db58499dd3c7f6495f9e2d68cb0e1ee72ad5af0046591446f258ba01586479",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223868169520",
+      "title": "아라비안나이트 중국어로? 天方夜谭，一千零一夜，阿拉伯之夜",
+      "publishedAt": "2025-05-16T22:45+09:00",
+      "sourceHash": "54baf662bd67b82623504b700e607ec9a7792502320033ab62765e2256f1f49c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223874761906",
+      "title": "초역 超译, 초월적 번역",
+      "publishedAt": "2025-05-23T01:07+09:00",
+      "sourceHash": "e2dec1833e12ef96baeb85f076e0c999fa17a4ec4ac050523de3af655a1f897d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223876592630",
+      "title": "AI 동시통역, 통번역의 미래",
+      "publishedAt": "2025-05-24T21:43+09:00",
+      "sourceHash": "7283a0bfdafd099073a2312eea70ac926dff34ad553b16a84f4d29e070a3f161",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223877438828",
+      "title": "AI 동시통역 더빙",
+      "publishedAt": "2025-05-25T22:05+09:00",
+      "sourceHash": "6452e185e7c1ef9dfaf5f1edc3d814384d03594bbe2b47d0c716350ed4ac00ee",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}
