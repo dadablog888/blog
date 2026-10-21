@@ -2,6 +2,11 @@
 
 이 저장소는 [다다의 네이버 블로그](https://blog.naver.com/dadablog888) 글을 기간별로 읽고 소개 문서로 정리합니다. **검색 유입의 우선 목적지는 네이버 원문입니다.** GitHub Pages는 보조 문서와 목차로 운영합니다.
 
+## 사이트 바로가기
+
+- [글 목차 보기 (GitHub Pages)](https://dadablog888.github.io/blog/): 연도별·주제별로 글을 찾아볼 수 있습니다.
+- [네이버 블로그 원문](https://blog.naver.com/dadablog888): 전체 글과 사진은 네이버에서 확인하세요.
+
 `content/site.json`의 `searchStrategy`는 `naver-first`입니다. 생성하는 모든 GitHub HTML은 `noindex, follow`이고, noindex 페이지를 검색용 사이트맵에 제출하지 않습니다. 크롤러가 noindex를 읽을 수 있도록 HTML 크롤링을 차단하지 않습니다. noindex는 GitHub 검색결과 제외를 요청하는 설정이며 네이버의 순위를 높이거나 1위를 보장하는 기능이 아닙니다.
 
 ## 기간을 지정해 갱신
