@@ -2,9 +2,9 @@
 
 ## 배포 상태 및 기준 URL
 
-기준 주소는 `https://dadablog888.github.io/blog/`입니다. 원격 저장소 `https://github.com/dadablog888/blog`와 기존 README, 로그인된 Pages 설정의 기본 도메인에서 확인한 경로입니다. 2026-10-21 공개 주소는 HTTP 404였으며, 운영 중인 사이트의 배포 성공까지 확인된 상태는 아닙니다. 이번 작업은 로컬 구현까지만 수행했습니다.
+기준 주소는 `https://dadablog888.github.io/blog/`입니다. 원격 저장소 `https://github.com/dadablog888/blog`와 기존 README, 로그인된 Pages 설정의 기본 도메인에서 확인한 경로입니다. 2026-10-21 작업 시작 때 공개 주소는 HTTP 404였으나, 마지막 확인에서는 HTTP 200이며 앞서 만든 이미지 버전이 표시되었습니다. 이번 텍스트·아카이브 수정본의 공개 배포는 수행하지 않았습니다.
 
-로그인된 설정에서는 `Deploy from a branch`와 `main` 빌드 안내, `None` 선택값이 함께 보였습니다. 설정을 저장하지 않았으므로 실제 게시 소스는 사용자가 최종 확인해야 합니다.
+로그인된 설정에서는 `Deploy from a branch`와 `main` 빌드 안내, `None` 선택값이 함께 보였습니다. 설정을 저장하지 않았습니다. 이후 공개 주소가 200으로 바뀌었으므로 앞선 선택값만으로 현재 Pages가 비활성이라고 단정하지 않습니다. 다음 배포 때 실제 게시 소스를 최종 확인하세요.
 
 코드를 검토하고 사용자가 별도로 커밋·push한 뒤, [저장소 Pages 설정](https://github.com/dadablog888/blog/settings/pages)에서 다음을 확인하세요.
 
