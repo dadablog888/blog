@@ -12,7 +12,7 @@ from html import unescape
 from html.parser import HTMLParser
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import urlencode, unquote_plus
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
 
@@ -179,6 +179,8 @@ def collect(period):
     site = json.loads((ROOT / 'content/site.json').read_text())
     blog_id = site['blogUrl'].rstrip('/').rsplit('/', 1)[1]
     now = datetime.now(KST)
+    if start > now.date():
+        raise ValueError('The requested period has not started yet')
     rss_dates = {}
     if end >= now.date() - timedelta(days=1):
         feed = ET.fromstring(get(site['feedUrl']))

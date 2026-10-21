@@ -1,7 +1,7 @@
 {
   "periods": {
     "2026-08": {
-      "checkedAt": "2026-10-21T22:51:12+09:00",
+      "checkedAt": "2026-10-21T22:57:05+09:00",
       "coverage": {
         "pagesScanned": 2,
         "reportedPublicPosts": 811,
@@ -14,9 +14,9 @@
         "224383294895",
         "224394493363"
       ],
-      "new": 4,
+      "new": 0,
       "changed": 0,
-      "unchanged": 0,
+      "unchanged": 4,
       "status": "complete"
     },
     "2026-10": {
@@ -51,6 +51,27 @@
       ],
       "new": 10,
       "changed": 10,
+      "unchanged": 0,
+      "status": "complete"
+    },
+    "2026-01": {
+      "checkedAt": "2026-10-21T23:01:38+09:00",
+      "coverage": {
+        "pagesScanned": 2,
+        "reportedPublicPosts": 811,
+        "listingRowsSeen": 60,
+        "boundaryReached": true
+      },
+      "postIds": [
+        "224130454181",
+        "224132669048",
+        "224132924116",
+        "224134027429",
+        "224136315799",
+        "224158609409"
+      ],
+      "new": 6,
+      "changed": 0,
       "unchanged": 0,
       "status": "complete"
     }

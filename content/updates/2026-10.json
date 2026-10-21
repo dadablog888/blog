@@ -1,0 +1,198 @@
+{
+  "checkedAt": "2026-10-21T22:56:43+09:00",
+  "coverage": {
+    "pagesScanned": 1,
+    "reportedPublicPosts": 811,
+    "listingRowsSeen": 30,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "224428444965",
+    "224431323429",
+    "224433378126",
+    "224435292431",
+    "224436115681",
+    "224437175392",
+    "224437509468",
+    "224438617244",
+    "224439900480",
+    "224440847582",
+    "224441859161",
+    "224442773518",
+    "224442985445",
+    "224443430134",
+    "224444035941",
+    "224444377141",
+    "224445095203",
+    "224445967985",
+    "224447147366",
+    "224448351861"
+  ],
+  "new": 10,
+  "changed": 10,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2026-10",
+  "posts": [
+    {
+      "id": "224428444965",
+      "title": "속죄의 3학기, 이대맛집 아민 이화",
+      "publishedAt": "2026-10-01T17:06+09:00",
+      "sourceHash": "4486e4ff700ae8b095432fb30c6b7f79b94a62afffe54aa595e9c4309f997c4a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224431323429",
+      "title": "글쓰기 난관 대처법",
+      "publishedAt": "2026-10-04T20:41+09:00",
+      "sourceHash": "23be49cddf6489a174beb9fccc4d43762dc712011dbca2abef983b86c64c23a9",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224433378126",
+      "title": "계화(桂花)는 계수나무 꽃일까? - 차백도 계화우롱 라떼",
+      "publishedAt": "2026-10-06T21:13+09:00",
+      "sourceHash": "9a0e4f780961a20b76aa315a8533e22ec6540d4edfbe7967ed31be3cf76925f8",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224435292431",
+      "title": "녹차가 카멜리아? 山茶花",
+      "publishedAt": "2026-10-08T15:16+09:00",
+      "sourceHash": "c2245024199b2b827d80ca7ed67f80ecbe63986f7a1735d5510d9be569e929ef",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224436115681",
+      "title": "2026 중드 추천 난향여고 兰香如故 - 후기, 상징적 의미들",
+      "publishedAt": "2026-10-09T11:47+09:00",
+      "sourceHash": "f21944c0199facc084362f21263d7160f4b13a62038a87ed3ea2ccb151c9a608",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224437175392",
+      "title": "차지 느낌 밀크티 만드는 법 - 계화용정 말차 라떼",
+      "publishedAt": "2026-10-10T15:50+09:00",
+      "sourceHash": "5e77a4b260c87d933c9f058ff3a9436a94b4e010350d7b8973b93b6cf63007a5",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224437509468",
+      "title": "중드 추천 <난향여고 兰香如故> 보는 곳, 1화 리뷰, \"活\"",
+      "publishedAt": "2026-10-11T00:10+09:00",
+      "sourceHash": "38362f1c97b0ff67cadb1deb68426349896e47937e62cb23821a8a00548b8fe0",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224438617244",
+      "title": "자스민차는 녹차일까? 자스민 밀크티 만드는 법",
+      "publishedAt": "2026-10-12T07:39+09:00",
+      "sourceHash": "6277f4cd45f4160e2ac67b5f8690bc411c7f62c346dff385ea2b7163749f9011",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224439900480",
+      "title": "퍽퍽 닭가슴살 중국어로? 又柴又干的鸡胸肉",
+      "publishedAt": "2026-10-13T09:27+09:00",
+      "sourceHash": "3abff44b0c5c51c51770496ccd0dfb1d6d7d5681761a5ee033ed0990e6cad623",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224440847582",
+      "title": "<난향여고 兰香如故> 여주 담송운 나이·데뷔작·무명시절·작품·인스타·웨이보 총정리!",
+      "publishedAt": "2026-10-14T00:22+09:00",
+      "sourceHash": "2cb632e7263470facd369ffa8bed94b930acc302b3c3eba45c6df1a8d22602eb",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224441859161",
+      "title": "중드 난향여고 ost <대몽귀 大梦归> 가사 번역 해석, 엔딩곡",
+      "publishedAt": "2026-10-14T21:59+09:00",
+      "sourceHash": "c5d3eba7bde7b2ef9453cb122de45d301e9f3f731533e128a6864c69cb68e928",
+      "status": "changed",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224442773518",
+      "title": "[중국어 캐롤] 징글벨 중국어로? 铃儿响叮当!",
+      "publishedAt": "2026-10-15T17:06+09:00",
+      "sourceHash": "86235a9b44ed962a95fcc105e965f9a61242f19f9a5984c6f56483e6a79ee2bc",
+      "status": "changed",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224442985445",
+      "title": "치이카와 중국어로? - 치이카와 타오바오 직구, 캐릭터 이름 중국어",
+      "publishedAt": "2026-10-15T20:53+09:00",
+      "sourceHash": "c9e64430b3aad29e70e01ed78359b4ef3d8639bb37fdc25b5fc1d00aa2994ba1",
+      "status": "changed",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224443430134",
+      "title": "[중국어 큐티] 한중 매일성경 e북",
+      "publishedAt": "2026-10-16T09:50+09:00",
+      "sourceHash": "d3ab8a6e87292a0ab5572c9c5c6376fda3abd6146fd5a892d3f78e9c0b9b9836",
+      "status": "changed",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224444035941",
+      "title": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "publishedAt": "2026-10-16T19:42+09:00",
+      "sourceHash": "9a20ae324c9545b7fa77af73671b35ab88c3854750286432c28e3a0d924c3e5c",
+      "status": "changed",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224444377141",
+      "title": "치이카와 중국 한정 - 타오바오 구매 가능 제품 직구",
+      "publishedAt": "2026-10-17T06:20+09:00",
+      "sourceHash": "3f25583bf9e95305d07537a095b8987463b447dc509cb10a3d8db7828ca49c3d",
+      "status": "changed",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224445095203",
+      "title": "중드 난향여고 등장인물 인물관계도 한국어 버전",
+      "publishedAt": "2026-10-18T00:32+09:00",
+      "sourceHash": "40e11791ddea6630ea7061dd7dd9514573146e093bfe11e8d27474ab70de08a0",
+      "status": "changed",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224445967985",
+      "title": "중국의 합격 기원 떡, 정승고 定胜糕 딩성가오, 항저우 맛집",
+      "publishedAt": "2026-10-19T00:11+09:00",
+      "sourceHash": "ef712b30ff3a469b7fe7ed27b423af98aef1819e58b97fe998d725e56e1e5a46",
+      "status": "changed",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224447147366",
+      "title": "판단 녹차 밀크티 만드는 법",
+      "publishedAt": "2026-10-20T00:08+09:00",
+      "sourceHash": "4c06bcf333d1046ac3f40338f439104a6d6741769db987ee4f6c1efbf74d6ef6",
+      "status": "changed",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "224448351861",
+      "title": "차백도 우롱 소이빈 밀크티 - 리뷰, 만드는 법, 차백도 뜻",
+      "publishedAt": "2026-10-21T00:32:35+09:00",
+      "sourceHash": "a84a3cee6128c71ebef376c0805cdb6c750830f7d7ebf42cee0bdcbb2a38a54d",
+      "status": "changed",
+      "inRequestedPeriod": true
+    }
+  ]
+}

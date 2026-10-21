@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-21T22:51:12+09:00",
+  "checkedAt": "2026-10-21T22:57:05+09:00",
   "coverage": {
     "pagesScanned": 2,
     "reportedPublicPosts": 811,
@@ -12,9 +12,9 @@
     "224383294895",
     "224394493363"
   ],
-  "new": 4,
+  "new": 0,
   "changed": 0,
-  "unchanged": 0,
+  "unchanged": 4,
   "status": "complete",
   "period": "2026-08",
   "posts": [
@@ -23,7 +23,7 @@
       "title": "신3양 - 新三样，新新三样",
       "publishedAt": "2026-08-17T17:44+09:00",
       "sourceHash": "bf66cdff1c31a850c09239cb05e3ca36616a218ca096eec16285d9aa2d5464aa",
-      "status": "new",
+      "status": "unchanged",
       "inRequestedPeriod": true
     },
     {
@@ -31,7 +31,7 @@
       "title": "푸꾸옥 힐링여행 - 富国岛",
       "publishedAt": "2026-08-18T10:30+09:00",
       "sourceHash": "d8721868341e74458eb71108d05c5779acda1e6fbbcee9b066da6a961efe961e",
-      "status": "new",
+      "status": "unchanged",
       "inRequestedPeriod": true
     },
     {
@@ -39,7 +39,7 @@
       "title": "양즈깐루 중국어 뜻, 만들기 - 杨枝甘露",
       "publishedAt": "2026-08-19T14:12+09:00",
       "sourceHash": "a8a3a17e4f0b76ba5d6e07109fefc44767fddbf27b2eea471df6538bad801b44",
-      "status": "new",
+      "status": "unchanged",
       "inRequestedPeriod": true
     },
     {
@@ -47,7 +47,7 @@
       "title": "번역의 의미 - <중국 번역사상사>",
       "publishedAt": "2026-08-29T22:25+09:00",
       "sourceHash": "78022e4bf20787a824f33f95aca0323208bc0ee154b7d1001709858dd08bfd26",
-      "status": "new",
+      "status": "unchanged",
       "inRequestedPeriod": true
     }
   ]
