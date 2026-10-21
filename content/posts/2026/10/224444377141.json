@@ -38,5 +38,7 @@
     "224442985445",
     "224445967985"
   ],
-  "introUpdatedOn": "2026-10-21"
+  "introUpdatedOn": "2026-10-21",
+  "sourceHash": "3f25583bf9e95305d07537a095b8987463b447dc509cb10a3d8db7828ca49c3d",
+  "publishedPrecision": "minute"
 }

@@ -1,7 +1,7 @@
 {
   "id": "224442773518",
   "slug": "jingle-bells-in-chinese",
-  "originalTitle": "[중국어 캐롤] 징글벨 중국어로?  铃儿响叮当!",
+  "originalTitle": "[중국어 캐롤] 징글벨 중국어로? 铃儿响叮当!",
   "title": "징글벨을 중국어로, 캐롤로 만나는 생활 표현",
   "publishedAt": "2026-10-15T17:06:23+09:00",
   "originalCategory": "중국 이야기",
@@ -38,5 +38,7 @@
     "224441859161",
     "224443430134"
   ],
-  "introUpdatedOn": "2026-10-21"
+  "introUpdatedOn": "2026-10-21",
+  "sourceHash": "86235a9b44ed962a95fcc105e965f9a61242f19f9a5984c6f56483e6a79ee2bc",
+  "publishedPrecision": "minute"
 }

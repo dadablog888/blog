@@ -137,7 +137,10 @@ def discover(blog_id, start, end, known, now, max_pages=200):
         if result.get('resultCode') != 'S':
             raise ValueError('Public listing request failed')
         rows = result.get('postList', [])
-        count = int(result['totalCount'])
+        total = int(result['totalCount'])
+        if count is not None and count != total:
+            raise ValueError('Listing changed during scan; rerun before claiming completeness')
+        count = total
         if not rows:
             if len(seen) < count:
                 raise ValueError('Listing ended before reported total; completeness unknown')
@@ -226,6 +229,8 @@ def apply(period):
     pending = []
     for row in report['posts']:
         if row['status'] == 'unchanged':
+            if known.get(row['id'], {}).get('sourceHash') != row['sourceHash']:
+                raise ValueError('Saved source changed after collect; collect again')
             continue
         source = json.loads((ROOT / row['sourceFile']).read_text())
         reviewed = ROOT / row['reviewFile']

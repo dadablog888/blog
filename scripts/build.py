@@ -7,7 +7,7 @@ from html import escape
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit
 from xml.etree import ElementTree as ET
-from content_store import load_posts
+from content_store import load_posts, write_json
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = json.loads((ROOT / 'content/site.json').read_text())
@@ -17,6 +17,7 @@ BASE = SITE['url']
 PREFIX = urlsplit(BASE).path
 PAGE_SIZE = 30
 INDEXED = {}
+GENERATED = set()
 assert BASE.startswith('https://') and BASE.endswith('/')
 
 
@@ -111,6 +112,7 @@ def save_page(path, title, description, body, schema, posts, noindex=False):
     noindex = noindex or SITE.get('searchStrategy') == 'naver-first'
     graph = {'@context': 'https://schema.org', '@graph': schema}
     write(path + 'index.html', page_head(title, description, path, graph, noindex) + body + footer())
+    GENERATED.add(path + 'index.html')
     if not noindex:
         INDEXED[path] = lastmod(posts)
 
@@ -277,6 +279,9 @@ def build_analysis():
 
 def build():
     INDEXED.clear()
+    GENERATED.clear()
+    registry = ROOT / 'content/generated-pages.json'
+    previous = json.loads(registry.read_text()) if registry.is_file() else []
     build_home()
     build_topics()
     build_archives()
@@ -285,6 +290,12 @@ def build():
     build_sitemap()
     build_analysis()
     write('.nojekyll', '')
+    # Delete only known generated files; date edits must not leave stale archive pages.
+    for old in set(previous) - GENERATED:
+        target = ROOT / old
+        if old.endswith('/index.html') and old.split('/')[0] in {'archive', 'topics', 'posts'} and target.resolve().is_relative_to(ROOT.resolve()):
+            target.unlink(missing_ok=True)
+    write_json(registry, sorted(GENERATED))
     print(f'Built {len(POSTS)} permanent post introductions, topic/date archives; {len(INDEXED)} indexable URLs.')
 
 
