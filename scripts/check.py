@@ -13,10 +13,11 @@ from urllib.parse import urljoin, urlsplit, unquote
 from urllib.request import urlopen, Request
 from xml.etree import ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
+from content_store import load_posts
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = json.loads((ROOT / 'content/site.json').read_text())
-POSTS = json.loads((ROOT / 'content/posts.json').read_text())
+POSTS = load_posts(ROOT)
 BASE = SITE['url']
 PREFIX = urlsplit(BASE).path
 errors = []
@@ -127,6 +128,8 @@ def main():
         require(doc.meta.get('og:title') == doc.title, f'{rel}: OG title mismatch')
         require(doc.meta.get('og:description') == doc.meta.get('description'), f'{rel}: OG description mismatch')
         require(len(doc.schemas) == 1, f'{rel}: JSON-LD missing')
+        if SITE.get('searchStrategy') == 'naver-first':
+            require(doc.meta.get('robots') == 'noindex, follow', f'{rel}: Naver-first policy requires noindex, follow')
         require(not doc.images and 'og:image' not in doc.meta, f'{rel}: unexpected image in text-only site')
         for im in doc.images:
             require(all(k in im for k in ['width', 'height', 'alt']), f'{rel}: image dimensions/alt missing')
@@ -155,12 +158,18 @@ def main():
     latest = sorted(POSTS, key=lambda p: p['publishedAt'], reverse=True)[:10]
     require([item['url'] for item in home_items] == [urljoin(BASE, 'posts/' + p['slug'] + '/') for p in latest], 'Home must list the latest 10 while retaining older posts')
     ns = {'s': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
-    sitemap = ET.parse(ROOT / 'sitemap.xml')
-    sitemap_urls = [x.text for x in sitemap.findall('.//s:loc', ns)]
+    sitemap_urls = []
+    if (ROOT / 'sitemap.xml').is_file():
+        sitemap = ET.parse(ROOT / 'sitemap.xml')
+        sitemap_urls = [x.text for x in sitemap.findall('.//s:loc', ns)]
     require(len(sitemap_urls) == len(set(sitemap_urls)), 'Sitemap duplicates')
     require(set(sitemap_urls) == indexed_urls, 'Sitemap must exactly match indexable canonical pages')
-    require(urljoin(BASE, 'sitemap.xml') in (ROOT / 'robots.txt').read_text(), 'Robots sitemap mismatch')
-    all_local_urls.update([urljoin(BASE, 'sitemap.xml'), urljoin(BASE, 'robots.txt')])
+    if SITE.get('searchStrategy') == 'naver-first':
+        require(not (ROOT / 'sitemap.xml').exists(), 'Do not advertise noindex GitHub pages in a sitemap')
+    else:
+        require(urljoin(BASE, 'sitemap.xml') in (ROOT / 'robots.txt').read_text(), 'Robots sitemap mismatch')
+        all_local_urls.add(urljoin(BASE, 'sitemap.xml'))
+    all_local_urls.add(urljoin(BASE, 'robots.txt'))
     print(f'Static checks: {len(files)} pages, {len(sitemap_urls)} indexable URLs, {len(all_local_urls)} local resources.')
     if args.http:
         for url in sorted(all_local_urls):

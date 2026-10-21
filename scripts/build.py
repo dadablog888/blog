@@ -7,10 +7,11 @@ from html import escape
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit
 from xml.etree import ElementTree as ET
+from content_store import load_posts
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = json.loads((ROOT / 'content/site.json').read_text())
-POSTS = sorted(json.loads((ROOT / 'content/posts.json').read_text()), key=lambda p: p['publishedAt'], reverse=True)
+POSTS = load_posts(ROOT)
 TOPICS = {topic['slug']: topic for topic in SITE['topics']}
 BASE = SITE['url']
 PREFIX = urlsplit(BASE).path
@@ -67,6 +68,7 @@ def breadcrumbs(items):
 
 
 def page_head(title, description, path, schema, noindex=False):
+    noindex = noindex or SITE.get('searchStrategy') == 'naver-first'
     verification = f'<meta name="google-site-verification" content="{esc(SITE["googleSiteVerification"])}">' if SITE.get('googleSiteVerification') else ''
     data = json.dumps(schema, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c')
     return f'''<!doctype html>
@@ -88,7 +90,6 @@ def page_head(title, description, path, schema, noindex=False):
 {verification}
   <link rel="icon" href="data:,">
   <link rel="stylesheet" href="{local('assets/style.css')}">
-  <link rel="sitemap" type="application/xml" href="{absolute('sitemap.xml')}">
   <script type="application/ld+json">{data}</script>
 </head>
 <body>
@@ -97,7 +98,7 @@ def page_head(title, description, path, schema, noindex=False):
 
 
 def footer():
-    return f'''<footer class="site-footer wrap"><p><a href="{local()}">{SITE['name']}</a> · <a href="{local('archive/')}">전체 기록</a> · <a href="{local('sitemap.xml')}">사이트맵</a></p><p>다다의 네이버 블로그 글을 소개하는 공간입니다. 전체 글과 사진은 각 네이버 원문에서 확인할 수 있습니다.</p></footer></body></html>'''
+    return f'''<footer class="site-footer wrap"><p><a href="{local()}">{SITE['name']}</a> · <a href="{local('archive/')}">전체 기록</a> · <a href="{SITE['blogUrl']}">네이버 원문 블로그</a></p><p>네이버 블로그가 원문이며 이곳은 보조 문서·목차입니다. 전체 글과 사진은 각 네이버 원문에서 확인할 수 있습니다.</p></footer></body></html>'''
 
 
 def write(path, value):
@@ -107,6 +108,7 @@ def write(path, value):
 
 
 def save_page(path, title, description, body, schema, posts, noindex=False):
+    noindex = noindex or SITE.get('searchStrategy') == 'naver-first'
     graph = {'@context': 'https://schema.org', '@graph': schema}
     write(path + 'index.html', page_head(title, description, path, graph, noindex) + body + footer())
     if not noindex:
@@ -204,6 +206,10 @@ def build_archives():
         years[key[:4]].append(post)
         months[key].append(post)
     group_index('archive/', '연도·월별 전체 기록', '네이버 원문 게시일을 기준으로 다다의 중국 문화·중국어 이야기를 연도와 월별로 찾아보세요. 새 글을 추가해도 지난 글의 소개 URL은 유지됩니다.', [(y + '년', f'archive/{y}/', years[y]) for y in sorted(years, reverse=True)], [('홈', ''), ('전체 기록', None)], POSTS)
+    # The overview exposes every year/month directly, without one giant post list.
+    overview = ROOT / 'archive/index.html'
+    month_links = ''.join('<section><h2>' + year + '년 월별 목록</h2><ul>' + ''.join(f'<li><a href="{local("archive/" + key + "/")}">{int(key[-2:])}월 ({len(months[key])}개 글)</a></li>' for key in sorted(months, reverse=True) if key.startswith(year + '/')) + '</ul></section>' for year in sorted(years, reverse=True))
+    overview.write_text(overview.read_text().replace('</main>', month_links + '</main>'))
     for year in sorted(years, reverse=True):
         group_index(f'archive/{year}/', year + '년의 기록', f'{year}년에 게시된 글을 월별로 모았습니다. 월을 선택하면 해당 기간의 글 제목과 요약을 확인할 수 있습니다.', [(str(int(m[-2:])) + '월', f'archive/{m}/', months[m]) for m in sorted(months, reverse=True) if m.startswith(year + '/')], [('홈', ''), ('전체 기록', 'archive/'), (year + '년', None)], years[year])
     for key, posts in sorted(months.items(), reverse=True):
@@ -245,6 +251,10 @@ def build_post(post):
 
 
 def build_sitemap():
+    if SITE.get('searchStrategy') == 'naver-first':
+        (ROOT / 'sitemap.xml').unlink(missing_ok=True)
+        write('robots.txt', '# Rules apply only at hostname root; HTML noindex remains effective.\n# Naver is the primary source; do not block crawling of HTML noindex tags.\nUser-agent: *\nAllow: /\n')
+        return
     root = ET.Element('urlset', xmlns='http://www.sitemaps.org/schemas/sitemap/0.9')
     for path, modified in sorted(INDEXED.items()):
         entry_ = ET.SubElement(root, 'url')
@@ -256,7 +266,7 @@ def build_sitemap():
 
 
 def build_analysis():
-    lines = ['# 공개 글 분석', '', f'최초 확인일: {SITE["verifiedOn"]} (한국 시간). [네이버 RSS]({SITE["feedUrl"]})에서 최근 10개를 선정하고 각 원문의 실제 본문과 제목을 대조했습니다. 10개 모두 HTTP 200과 본문을 확인했습니다. 이후 추가하는 글도 기존 항목을 유지하며 누적합니다.', '', '게시일은 RSS의 KST 시각입니다. RSS는 중간에 잘릴 수 있어 실제 본문을 읽고 요약했습니다. 경제 관련 글은 이번 최근 10개에 없어 별도 경제 분류를 만들지 않았습니다.', '']
+    lines = ['# 공개 글 분석', '', f'초기 최근 10개는 {SITE["verifiedOn"]}에 RSS 및 실제 원문으로 확인했습니다. 이후 기간별 공개 목록·실제 본문을 확인한 글을 누적합니다. 실행별 확인일·기간·변경 여부는 content/updates/에 기록합니다.', '', '게시일은 KST이며 확인할 수 있는 정밀도만 사용합니다. 원문 전문은 공개 문서에 복제하지 않습니다. 사이트는 네이버 원문 우선 전략으로 모든 HTML을 noindex, follow로 제공합니다.', '']
     for i, p in enumerate(POSTS, 1):
         lines += [f'## {i}. {p["originalTitle"] or "(원문 제목 공백)"}', '', f'- 원문: {p["sourceUrl"]}', f'- 원문 게시: {p["publishedAt"]}', f'- 원문 분류: {p["originalCategory"]} / 사이트 분류: {TOPICS[p["topic"]]["name"]}', f'- 핵심 내용: {p["summary"]}', '- 제안 검색 키워드: ' + (', '.join(p['keywords']) or '제안하지 않음 — 제목과 본문 정보 부족'), f'- 소개 페이지: {absolute(post_path(p))}', '- 확인 상태: 실제 원문 본문 확인. 이미지 속 텍스트 전체 판독이나 원문이 인용한 외부 자료의 사실 검증까지 수행한 것은 아닙니다.', '']
         if p.get('sourceNote'):

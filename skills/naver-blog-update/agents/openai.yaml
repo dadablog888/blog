@@ -1,0 +1,4 @@
+interface:
+  display_name: "네이버 블로그 기간별 갱신"
+  short_description: "명시한 월 또는 날짜의 원문 변경을 확인하고 소개 문서를 누적 갱신합니다"
+  default_prompt: "Use $naver-blog-update 2026-08 to refresh the Naver blog introductions for that month."
