@@ -1,0 +1,6 @@
+# Effective only at the hostname root /robots.txt.
+# Submit /blog/sitemap.xml in Search Console for this project site.
+User-agent: *
+Allow: /
+
+Sitemap: https://dadablog888.github.io/blog/sitemap.xml
