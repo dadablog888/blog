@@ -1,0 +1,207 @@
+{
+  "checkedAt": "2026-10-24T23:19:12+09:00",
+  "coverage": {
+    "pagesScanned": 9,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 270,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223280207262",
+    "223280974279",
+    "223280989535",
+    "223281713167",
+    "223282920709",
+    "223283740217",
+    "223284391263",
+    "223284427227",
+    "223286056707",
+    "223287146668",
+    "223288359470",
+    "223294563176",
+    "223295354628",
+    "223296295237",
+    "223297906447",
+    "223302289807",
+    "223304151549",
+    "223305201697",
+    "223307168682",
+    "223307890523",
+    "223308305580"
+  ],
+  "new": 21,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2023-12",
+  "posts": [
+    {
+      "id": "223280207262",
+      "title": "탕후루칩! 산자 山楂 간식들",
+      "publishedAt": "2023-12-01T16:42+09:00",
+      "sourceHash": "aa914a029552045d04bdf8ad1939f37b23e7a06f341e5229d03b2245cb9d0f82",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223280974279",
+      "title": "토스 캐치 인형",
+      "publishedAt": "2023-12-02T15:54+09:00",
+      "sourceHash": "ccbf76b9ebd0fec5f6fb9e647f1eff7645e2dac4a511532b7c1c9328b9b7da52",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223280989535",
+      "title": "알리페이+토스페이로 말레이시아에서 결제 가능할까? (feat.蚂蚁Alipay+)",
+      "publishedAt": "2023-12-02T16:17+09:00",
+      "sourceHash": "6a74faa6570f95e0eb73e5602b8634fb710558df735cd15a92f1b0a68dfad646",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223281713167",
+      "title": "중국 직구 추천 - 타오바오 초대형 대추 骏枣",
+      "publishedAt": "2023-12-03T17:18+09:00",
+      "sourceHash": "bf560092019c88f519cfe23b8b35e5b81fe575f10d71248144371c3a4e3479e5",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223282920709",
+      "title": "마비, 먹통 중국어로? 崩了, 麻痹, 麻木, 瘫痪 (바이두 인기 검색어 - 텐센트 비디오 먹통 腾讯视频崩了)",
+      "publishedAt": "2023-12-04T21:39+09:00",
+      "sourceHash": "c93f9578b21a82c02c816c9491d9ca4be4417457035da6d2fb96bc6501a4b57d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223283740217",
+      "title": "白鹿 백록, 바이루, 한국어 잘하는 중국 연예인",
+      "publishedAt": "2023-12-05T17:20+09:00",
+      "sourceHash": "0641fb81b355c47554dbf3d32b08054f35630abf7ca49432cb1bc3fe6d1f4c8a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223284391263",
+      "title": "거푸집 수준, 중국어로? 一个模子刻出来的",
+      "publishedAt": "2023-12-06T11:19+09:00",
+      "sourceHash": "03e5872eda55b399dc75c31278d151604f618626e05a447f516f3b8645bcec11",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223284427227",
+      "title": "[2023 마이 블로그 리포트] 데이터로 알아보는 블로그 속 숨은 직업 찾기!",
+      "publishedAt": "2023-12-06T11:55+09:00",
+      "sourceHash": "685d401f2b1a359933a7e22dfe2f25ca8c079d95b7bf93fcaab63dcca1f98728",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223286056707",
+      "title": "시나모롤 중국어로? 玉桂狗, 大耳狗",
+      "publishedAt": "2023-12-07T21:28+09:00",
+      "sourceHash": "94881258260a6c6344ef7892f9f68cb66634846602b98a1f2557dda3718da9bc",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223287146668",
+      "title": "중국 영부인, 彭丽媛 펑리위안 - 谁不说俺家乡好 우리 고향 좋지 아니한가",
+      "publishedAt": "2023-12-08T22:56+09:00",
+      "sourceHash": "07bc1a3539e33920f82c50d9debef239b95fe8c36d5d714117ca5af86524ed69",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223288359470",
+      "title": "[중국어 캐롤] 고요한 밤 거룩한 밤 平安夜♡",
+      "publishedAt": "2023-12-10T17:12+09:00",
+      "sourceHash": "df6786ca2e8c1fb4c632f3b28e4082a134fd219eb849ed06e81f9251ee5a0ce4",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223294563176",
+      "title": "용인시 마스코트 조아용 달력 2024",
+      "publishedAt": "2023-12-16T14:46+09:00",
+      "sourceHash": "9e2ed0ba2592156dccb9f6c36944fce1dec38bf457a2e41fbe29e9368ee2d863",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223295354628",
+      "title": "경희대 한방병원 쌍화탕가미, 중국과 한국의 쌍화탕(双和汤)",
+      "publishedAt": "2023-12-17T16:26+09:00",
+      "sourceHash": "4c8f241e59b996ef8587176e9a963a6a58b089a35e20ba444d271404dcaf051b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223296295237",
+      "title": "JOYONG 두유 제조기 후기 - 豆浆机 또우장 만들기",
+      "publishedAt": "2023-12-18T14:57+09:00",
+      "sourceHash": "6c04a28cdf2fbcaec6c3f8ab0d1b47b00807563d478efce57732a98c7e0e2d57",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223297906447",
+      "title": "중국 자수 스카프",
+      "publishedAt": "2023-12-20T00:33+09:00",
+      "sourceHash": "c0464858f89a17b596246b93a2d0f7fee59d791a17629338ebda405d72cb7653",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223302289807",
+      "title": "말레이시아 한 달 살기 출발- 대한항공 한국식 비건 메뉴, Star Suites KLCC",
+      "publishedAt": "2023-12-25T01:14+09:00",
+      "sourceHash": "d4d52a8c55f68d9234991c26c1c2c146786acbbd597d01847741fa0c2f3c529c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223304151549",
+      "title": "말레이시아 한달살기 숙소-Star suites KLCC, 근처 쿠알라룸푸르 맛집 1919 restaurant 후기",
+      "publishedAt": "2023-12-27T02:21+09:00",
+      "sourceHash": "6ef61c7289969c2c2becba606fc849fedf2b3eb7cc0c8f87fcfe378bd175c3b9",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223305201697",
+      "title": "TBS 말레이시아 장거리 버스, 쿠알라룸푸르에서 조호바루 가기",
+      "publishedAt": "2023-12-28T03:06+09:00",
+      "sourceHash": "5634f24a7b342214b8558fba50e006887702059ede61720c6a813d0c37a7a3e0",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223307168682",
+      "title": "조호바루에서 싱가포르 가기- 싱가포르 1박2일 첫째날, 야경투어",
+      "publishedAt": "2023-12-30T04:10+09:00",
+      "sourceHash": "3120e452409ed1c0cfd0109398a80268b287fcc0ec74e75189a52fa00ad59b70",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223307890523",
+      "title": "조호바루에서 싱가포르 가기- 싱가포르 1박2일 둘째날, 케이블카와 미슐랭맛집 Spago",
+      "publishedAt": "2023-12-31T01:41+09:00",
+      "sourceHash": "4486d4a27478cd402724572c6dda105943c00cc8503864fd50f1020248d48279",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223308305580",
+      "title": "말레이시아 밀크티 맛집 CHAGEE 霸王茶姬 패왕차희",
+      "publishedAt": "2023-12-31T16:59+09:00",
+      "sourceHash": "c73bab8fd03bb80bb08dac16b6b87908d46a837f88340ad8b94c9cd5bb2dd17a",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

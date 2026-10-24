@@ -1,0 +1,180 @@
+{
+  "checkedAt": "2026-10-25T00:06:14+09:00",
+  "coverage": {
+    "pagesScanned": 12,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 360,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223149687644",
+    "223151997238",
+    "223154143712",
+    "223154910779",
+    "223154994672",
+    "223155883380",
+    "223155974588",
+    "223156898596",
+    "223157710276",
+    "223160325531",
+    "223162406886",
+    "223163290908",
+    "223163944928",
+    "223165642117",
+    "223166677413",
+    "223168046025",
+    "223168434020",
+    "223170181083"
+  ],
+  "new": 18,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2023-07",
+  "posts": [
+    {
+      "id": "223149687644",
+      "title": "(전시후기) 생각 지상주의자들의 요람",
+      "publishedAt": "2023-07-07T17:04+09:00",
+      "sourceHash": "ac4f8a55a08a5212fe180f9e14667361384e51de2377a413a7ed8b969f7b429a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223151997238",
+      "title": "春思 춘사 - 王僧孺 왕승유 , 양나라 3대 장서가",
+      "publishedAt": "2023-07-10T16:15+09:00",
+      "sourceHash": "829938917ae9f2f46dfd5fdd413b771362f5ed4e4dd9111d234f77571c095772",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223154143712",
+      "title": "라이센스 授权",
+      "publishedAt": "2023-07-12T16:23+09:00",
+      "sourceHash": "388933720b5fcaaa0cfbb8a54d774fa5332901bb90732559116f4333bd84f521",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223154910779",
+      "title": "懊侬歌 오농가 - 南朝乐府 남조악부",
+      "publishedAt": "2023-07-13T12:28+09:00",
+      "sourceHash": "f9984f5013a55d7d6bb272c31bf84cda5d4b826f89ce0cb80130be6f201acadb",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223154994672",
+      "title": "양저우 차오판(扬州炒饭)의 유래",
+      "publishedAt": "2023-07-13T14:04+09:00",
+      "sourceHash": "66211d673357457c3843b7c506a2f3e3323ff2f378d1437c8aff01f20da6a84f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223155883380",
+      "title": "(스크랩) 전세 제도의 가까운 미래--toss feed",
+      "publishedAt": "2023-07-14T11:22+09:00",
+      "sourceHash": "5ab5e736e0ca5a9d935fea610c615a95589153293e6a7c76b3a84ddddd9a43f1",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223155974588",
+      "title": "黑天鹅 검은 백조 / 灰犀牛 회색 코뿔소 / 拦路虎 길(을)막(는) 호랑이",
+      "publishedAt": "2023-07-14T13:13+09:00",
+      "sourceHash": "9b535713c37e6c116f2b731359ad305a7415a515c67a8acead43541e0a98b485",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223156898596",
+      "title": "탕후루 糖葫芦 배민으로 먹기!! (왕가 탕후루)",
+      "publishedAt": "2023-07-15T14:07+09:00",
+      "sourceHash": "979584929a8afa6ba6551449c690c1ed1f1f8db3a12d048af44b173977621018",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223157710276",
+      "title": "선물 받은 쫑즈 粽子",
+      "publishedAt": "2023-07-16T17:51+09:00",
+      "sourceHash": "7abef57e51a957077aab2df34b64e905e1a06f6cca31134757c8864b2ac8fa12",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223160325531",
+      "title": "과일커피 果咖, 차커피 茶咖, 술커피 酒咖, 꽃커피 花咖（2023.7.18《消费主张》）",
+      "publishedAt": "2023-07-19T10:57+09:00",
+      "sourceHash": "4f1293fc74db9955236a8c594e745fc5e603c62ca6f0ba8dc41ee59e4c04221c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223162406886",
+      "title": "<세이노의 가르침>",
+      "publishedAt": "2023-07-21T14:19+09:00",
+      "sourceHash": "e8537123b322aaf41bdc96e6b9576d4c4f0c3a848bd410e3d1f0adfa83163fd8",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223163290908",
+      "title": "<고품격 비즈니스 중국어 통역>",
+      "publishedAt": "2023-07-22T17:45+09:00",
+      "sourceHash": "22b424af428e6dfec139c0913fba45d12a67258cd5e3da3458aa6407b23526b4",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223163944928",
+      "title": "세계인구 80억, 1위 인도, 2위 중국.",
+      "publishedAt": "2023-07-23T17:56+09:00",
+      "sourceHash": "37f0b78b53c5d55acfc41f93bd4b69c1576738701079d334c0102553ed5337d7",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223165642117",
+      "title": "요즘 중국 영화시장 - 暑期档，国产影片，八角笼中",
+      "publishedAt": "2023-07-25T14:30+09:00",
+      "sourceHash": "aa686af2336655d47e368e3eddad24d536db00694f4f30d3613f2845824c6dfc",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223166677413",
+      "title": "양쯔충(杨紫琼 양자경 Michelle Yeoh) 인터뷰",
+      "publishedAt": "2023-07-26T15:47+09:00",
+      "sourceHash": "54ecca93587c6105172ff413864239a6850be9bd7ee5457b99f5dfd848ab19d5",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223168046025",
+      "title": "인어공주 美人鱼",
+      "publishedAt": "2023-07-28T00:05+09:00",
+      "sourceHash": "6a003fbf267da68198dff31702c3a0a2bb94d42dbcd1ca516359394a51a756dc",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223168434020",
+      "title": "팔라펠 炸豆丸子, 후무스 鹰嘴豆泥",
+      "publishedAt": "2023-07-28T13:24+09:00",
+      "sourceHash": "b89ea3e2ad029853cba54eef20908f1747113f7740483189dca0b973cb25e860",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223170181083",
+      "title": "용인 푸씨 판다 푸바오 중국 반환 - 福宝返华",
+      "publishedAt": "2023-07-30T20:45+09:00",
+      "sourceHash": "ef18b2322f7ae314fffa50ce163c4b28620908cd3ae608f14481375b501c5196",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

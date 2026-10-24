@@ -1,0 +1,108 @@
+{
+  "checkedAt": "2026-10-25T00:32:41+09:00",
+  "coverage": {
+    "pagesScanned": 18,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 540,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "222891890620",
+    "222891978416",
+    "222892910318",
+    "222898566659",
+    "222904938421",
+    "222905941642",
+    "222906252426",
+    "222908884305",
+    "222911918145",
+    "222914137692"
+  ],
+  "new": 10,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2022-10",
+  "posts": [
+    {
+      "id": "222891890620",
+      "title": "덕수궁, 국립현대미술관.",
+      "publishedAt": "2022-10-04T22:52+09:00",
+      "sourceHash": "aced3baf00b9b7c515fd91ac4692e569206212c8cae4f3a6a929f80e4bfe5ffd",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222891978416",
+      "title": "미국 주 이름 중국어.",
+      "publishedAt": "2022-10-05T00:42+09:00",
+      "sourceHash": "6bdf52504fac15e64bf5590eeba30a866ae75287ba3d202619bbc4d0a07518b4",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222892910318",
+      "title": "장소-场所，地方，区域",
+      "publishedAt": "2022-10-06T00:56+09:00",
+      "sourceHash": "3890d5fb3ca9f0f5ef5ce90041c10b1768b11bcc5635530c78b49af0cef26974",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222898566659",
+      "title": "众生皆苦，巴黎贝甜",
+      "publishedAt": "2022-10-12T19:40+09:00",
+      "sourceHash": "af1323aedf7619698e970322d7731325565a44750855d1a8291b99b70114755e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222904938421",
+      "title": "곰표vs토끼표(大白兔)",
+      "publishedAt": "2022-10-19T23:22+09:00",
+      "sourceHash": "46a3a745946f43e71f0419c7757531ccfcde556ec3bbd71db4f1ebe84fa3cc88",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222905941642",
+      "title": "牌",
+      "publishedAt": "2022-10-21T00:31+09:00",
+      "sourceHash": "753b11ad0f14e1bfe413168762588aaf8c183e6e058de75edc8e8b83bd25f7ed",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222906252426",
+      "title": "基层",
+      "publishedAt": "2022-10-21T11:49+09:00",
+      "sourceHash": "f21f90d8a693e7805ae6f65e16c58c4166c8ace937caf5c90847dea5f957b637",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222908884305",
+      "title": "姐姐=sister?",
+      "publishedAt": "2022-10-24T11:09+09:00",
+      "sourceHash": "62df6c36241974a10ef2c8e2b3f1d690d3bffad2a6b903957eee5429fc6ce951",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222911918145",
+      "title": "下辈子吧 - 다음 생에",
+      "publishedAt": "2022-10-27T10:39+09:00",
+      "sourceHash": "f4987de774b54e0768b151020fa5736e540a9c6f50b0ee9994d2b93c77b824c4",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222914137692",
+      "title": "天净沙·秋思 - 가을",
+      "publishedAt": "2022-10-29T20:19+09:00",
+      "sourceHash": "0c7db9769e69ec0276d770329a7434e8e252243a9e713fcabc3666ef7fb5e409",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

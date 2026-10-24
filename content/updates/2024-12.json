@@ -1,0 +1,108 @@
+{
+  "checkedAt": "2026-10-24T23:02:12+09:00",
+  "coverage": {
+    "pagesScanned": 4,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 120,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223678930001",
+    "223680449647",
+    "223681721581",
+    "223682052282",
+    "223682115940",
+    "223688395349",
+    "223698294945",
+    "223702664295",
+    "223708043446",
+    "223709714125"
+  ],
+  "new": 10,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2024-12",
+  "posts": [
+    {
+      "id": "223678930001",
+      "title": "太谷饼 태곡병, 서태후가 좋아했던 산시성 특산품",
+      "publishedAt": "2024-12-01T17:58+09:00",
+      "sourceHash": "9fe2822c45b4d13bd737526f4c25076b8bb4d7c9059b4421813d157d5dc2b9ab",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223680449647",
+      "title": "[중국어큐티] 20241202 除我以外没有救主",
+      "publishedAt": "2024-12-02T23:26+09:00",
+      "sourceHash": "0ebdd6fc98b9d245971a709ae9dfcc1d4927d3ddf8653c88e926b2509654084e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223681721581",
+      "title": "바이두 실검 1위, 한국 비상계엄 - 韩国总统尹锡悦宣布“紧急戒严”",
+      "publishedAt": "2024-12-04T00:06+09:00",
+      "sourceHash": "7e6571e4b7558dc2122f57cc64b5dbfaa0da76ebddfc82b08c91d154dfec4ec0",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223682052282",
+      "title": "바이두 백과, 12.3 한국 정치분쟁",
+      "publishedAt": "2024-12-04T10:43+09:00",
+      "sourceHash": "c907fa377356a5739cc7c1016b8d7c1f955d6a72cff727d21087e74b6046d8bb",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223682115940",
+      "title": "별자리 중국어로? 星座",
+      "publishedAt": "2024-12-04T11:39+09:00",
+      "sourceHash": "d18f592a10f9eb83e1f56b0be3e0af7f0d75e49a873f66191c61fe607a6fb9ad",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223688395349",
+      "title": "<작별하지 않는다>(不做告别)",
+      "publishedAt": "2024-12-10T10:56+09:00",
+      "sourceHash": "1bfcd49080d3dcd781be3caf270d5053dbd871d150fa0df82cd3e83cdfdd074c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223698294945",
+      "title": "[2024 마이 블로그 리포트] 데이터로 찾아보는 내 블로그 마을",
+      "publishedAt": "2024-12-18T23:31+09:00",
+      "sourceHash": "135d9364603d545e6516b184471b7adb1c4394c55422c0ac9f022c867eb9b15d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223702664295",
+      "title": "엘시티 레지던스 부산 해운대 맛집",
+      "publishedAt": "2024-12-23T09:15+09:00",
+      "sourceHash": "688655ecf382e51db22da646d44b5f1487a39b10fc4a71cdf15b9b88fe6c3a6b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223708043446",
+      "title": "천안문 예약하는 방법",
+      "publishedAt": "2024-12-28T22:13+09:00",
+      "sourceHash": "1d4f90b19a9ed4b17a15a220cb7f6d7a8b488352f379e02ae1836bd094efee2c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223709714125",
+      "title": "자금성 예약하는 방법 (고궁박물원 예약)",
+      "publishedAt": "2024-12-30T19:52+09:00",
+      "sourceHash": "cbe7ddc0e961ba30ae6f0545a741fe7cb148a970b4f0781726ab62d36407aa2a",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

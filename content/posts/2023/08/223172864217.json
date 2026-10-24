@@ -1,0 +1,31 @@
+{
+  "id": "223172864217",
+  "slug": "223172864217",
+  "title": "2023년 기사로 읽은 어니봇과 중국 생성형 AI",
+  "topic": "economy",
+  "description": "바이두 어니봇의 중국어 이름과 중국 생성형 AI 관련 당시 보도를 모았습니다.",
+  "summary": "文心一言을 비롯한 중국 AI 서비스의 이름을 익히고 앱 출시와 규제, 미중 경쟁에 관한 기사를 읽습니다.",
+  "sections": [
+    {
+      "heading": "앱을 찾아보며 시작된 AI 뉴스 읽기",
+      "text": "아이패드에서 어니봇을 검색해 본 경험을 출발점으로 바이두, 알리바바, 아이플라이텍의 서비스를 살펴봅니다. 접근 권한과 앱 삭제에 대한 설명은 2023년 8월 당시 기사 내용이며 현재 제공 여부를 안내하는 글은 아닙니다."
+    }
+  ],
+  "keywords": [
+    "文心一言",
+    "어니봇",
+    "중국 생성형 AI"
+  ],
+  "takeaways": [
+    "앱을 찾아보며 시작된 AI 뉴스 읽기"
+  ],
+  "related": [],
+  "introUpdatedOn": "2026-10-25",
+  "sourceCheckedAt": "2026-10-25T00:04:57+09:00",
+  "originalTitle": "중국판 '챗GPT', 바이두 어니봇 (ERNIE Bot) 文心一言",
+  "originalCategory": "중국 이야기",
+  "sourceUrl": "https://blog.naver.com/dadablog888/223172864217",
+  "sourceHash": "ac58c485cd8cc6dac99c31beff5d586ab8875f06de94ac413aeb35580e0793a2",
+  "publishedAt": "2023-08-02T15:32+09:00",
+  "publishedPrecision": "minute"
+}

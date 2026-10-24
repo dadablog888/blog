@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-25T00:35:13+09:00",
+  "coverage": {
+    "pagesScanned": 18,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 540,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "222838787091",
+    "222846532193",
+    "222848931650",
+    "222852393711",
+    "222858389969",
+    "222861097460"
+  ],
+  "new": 6,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2022-08",
+  "posts": [
+    {
+      "id": "222838787091",
+      "title": "인천 파라다이스 시티",
+      "publishedAt": "2022-08-03T20:42+09:00",
+      "sourceHash": "27063c188f920ac957c53b369aa9e9ca62f2ada86b5265025d344f3ec14cc98a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222846532193",
+      "title": "브런치 메뉴 중국어로?",
+      "publishedAt": "2022-08-12T13:40+09:00",
+      "sourceHash": "f1181af56a4018b41a769889024e23c09d47851a34cadc50dd76244f77f0faf6",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222848931650",
+      "title": "도산 안창호 기념관",
+      "publishedAt": "2022-08-15T15:24+09:00",
+      "sourceHash": "92bfcf1e4f5035cc54aa239fc8a8933d5e768c10948d0ad6f3f2f69b3b42be5f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222852393711",
+      "title": "信息符号话-정보 기호화",
+      "publishedAt": "2022-08-19T11:22+09:00",
+      "sourceHash": "811be309e9e794ef6ce18ce7cae0b1c403ff5313d559300e3eda419aea0ba02a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222858389969",
+      "title": "H&M, 지속가능, 중국어표현",
+      "publishedAt": "2022-08-26T02:19+09:00",
+      "sourceHash": "33ac37ceb3ae4e9f93641d9e1da327da63f4f1d686c93a3c90515ec3e9a00893",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222861097460",
+      "title": "筐, 광주리",
+      "publishedAt": "2022-08-29T13:22+09:00",
+      "sourceHash": "625d0c982163fb3f431880a6cdcddcde0faa32f95fef536a9ba49633cede315e",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

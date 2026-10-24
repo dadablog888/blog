@@ -1,0 +1,90 @@
+{
+  "checkedAt": "2026-10-25T00:37:43+09:00",
+  "coverage": {
+    "pagesScanned": 19,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 570,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "222619579200",
+    "222619667241",
+    "222621549068",
+    "222622675241",
+    "222624105727",
+    "222626916926",
+    "222627677957",
+    "222631470119"
+  ],
+  "new": 8,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2022-01",
+  "posts": [
+    {
+      "id": "222619579200",
+      "title": "<성공한 사람들의 기상 후 1시간>",
+      "publishedAt": "2022-01-12T11:22+09:00",
+      "sourceHash": "d23a7c5e66731e30ea908c660031bd965d2a48bf2d22758a0aea9e0ef57b88e5",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222619667241",
+      "title": "4학기, 그리고 졸시.",
+      "publishedAt": "2022-01-12T13:09+09:00",
+      "sourceHash": "0b9139771d7002a61cf905050de44d4ad9362705189a48236b42eefd8310780a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222621549068",
+      "title": "동계올림픽 종목 중국어",
+      "publishedAt": "2022-01-14T12:56+09:00",
+      "sourceHash": "8b2a044d880222c7301c468a5815bc53325cb6156107f969886bd4f08d0f6ed0",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222622675241",
+      "title": "국립중앙박물관",
+      "publishedAt": "2022-01-15T21:39+09:00",
+      "sourceHash": "07fb536c0cb0dc27dd5cf4796f83317ce8b3409082c2b79e815447dd1f3e8a19",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222624105727",
+      "title": "19-冬奥",
+      "publishedAt": "2022-01-17T17:22+09:00",
+      "sourceHash": "24583789aeec28b3eecbeb1e4f8afbc9a1a1c2fc2f8ac4377339aba593603cdf",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222626916926",
+      "title": "<NFT레볼루션>",
+      "publishedAt": "2022-01-20T17:29+09:00",
+      "sourceHash": "1a6e7c94171275cd6be98007d9a2c7d34d262bfb9b81b3adc221a0f14abbf0c6",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222627677957",
+      "title": "nft 관련",
+      "publishedAt": "2022-01-21T14:36+09:00",
+      "sourceHash": "057cd6c21f41e6367ee46d4e3a836b98114d5d261fb5aa68124e888cafffce27",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222631470119",
+      "title": "부동산 - 首尔房子价格3年疯涨60%",
+      "publishedAt": "2022-01-26T01:31+09:00",
+      "sourceHash": "cce8b7b7b0faeb7f57f2483a7760de86a8cc219ccaa38f280f525425b3d90e13",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

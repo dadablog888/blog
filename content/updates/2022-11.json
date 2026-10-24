@@ -1,0 +1,360 @@
+{
+  "checkedAt": "2026-10-25T00:28:35+09:00",
+  "coverage": {
+    "pagesScanned": 17,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 510,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "222916609756",
+    "222917098463",
+    "222917848902",
+    "222923585218",
+    "222924733151",
+    "222925574257",
+    "222927915634",
+    "222930505902",
+    "222932305078",
+    "222932370091",
+    "222932813242",
+    "222933004088",
+    "222933386820",
+    "222933587186",
+    "222933770854",
+    "222934097638",
+    "222934832743",
+    "222934868588",
+    "222935487259",
+    "222935760295",
+    "222935971654",
+    "222936688549",
+    "222936827503",
+    "222937311375",
+    "222937510348",
+    "222937864158",
+    "222938094238",
+    "222938415928",
+    "222938561994",
+    "222938898778",
+    "222939059445",
+    "222939443093",
+    "222939827348",
+    "222940097683",
+    "222940879205",
+    "222941664986",
+    "222942042154",
+    "222942247212"
+  ],
+  "new": 38,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2022-11",
+  "posts": [
+    {
+      "id": "222916609756",
+      "title": "연령대 중국어로? 中青年=청장년？",
+      "publishedAt": "2022-11-01T14:36+09:00",
+      "sourceHash": "e1fd7e03cccfd787725514e29b17d6b46e02322439569c7976b9b7775e794d72",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222917098463",
+      "title": "종이팩 교환!(제로웨이스트 실천하기)",
+      "publishedAt": "2022-11-01T23:19+09:00",
+      "sourceHash": "29572f84abb7a7914cdf2ec1f780ce01bd6f6af971d7350e2d2a27853abc64d9",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222917848902",
+      "title": "손목 통증을 줄여주는 테이핑",
+      "publishedAt": "2022-11-02T19:50+09:00",
+      "sourceHash": "1592bf87e28c1133aba62a7450759d13d8630e6e145addeccc60f95373fefa5d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222923585218",
+      "title": "오늘의 재택통역",
+      "publishedAt": "2022-11-08T20:24+09:00",
+      "sourceHash": "1f2cd8d48fda2a72c9c30ca21ce704653e13649dce5b7f8684ccc261eca8f6f4",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222924733151",
+      "title": "키트 중국어로?",
+      "publishedAt": "2022-11-10T01:24+09:00",
+      "sourceHash": "7ab5728c3f706c88fd04806abc9dcad03acd53203706b1fd6a24326d01ebcc90",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222925574257",
+      "title": "(통역 쉐도잉 연습)밀키트-半成品菜",
+      "publishedAt": "2022-11-11T00:00+09:00",
+      "sourceHash": "152e77c6dad30a48f82e1ee9cfe159281fb914d95b85cdf73d640419d521a007",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222927915634",
+      "title": "타오바오 직구 배대지 추천!",
+      "publishedAt": "2022-11-14T00:13+09:00",
+      "sourceHash": "a09d9f8cce226b2f85670b826dc053852b9166612a59ae4334e21fa2934bf9eb",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222930505902",
+      "title": "M&M's 중국어로?-재밌는 브랜드 이름들",
+      "publishedAt": "2022-11-16T19:24+09:00",
+      "sourceHash": "f952fc34371b133693eda031c4d60ac15ab0d66fec4397d7b1c048764e7a1007",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222932305078",
+      "title": "도화원기",
+      "publishedAt": "2022-11-18T20:00+09:00",
+      "sourceHash": "bf36414efabcc6372450c078eabe3b8117bd34d20b6900bfaf2fe22d1b45a3b9",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222932370091",
+      "title": "증자살인, 삼인성호",
+      "publishedAt": "2022-11-18T21:44+09:00",
+      "sourceHash": "8f0f72d4977e3f13e8a6384fc1f06d6ce507dcca7749797356ff1ab2a7b84a2b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222932813242",
+      "title": "(중드추천) 두라라 杜拉拉",
+      "publishedAt": "2022-11-19T15:55+09:00",
+      "sourceHash": "5499c1fb317ebcf2b353ee43f54fef6f49a04a41a22cc4604207a67a590a29e6",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222933004088",
+      "title": "<안개비연가> 배우들 근황 - 夜上海야상해 가사 뜻 해석",
+      "publishedAt": "2022-11-20T00:10+09:00",
+      "sourceHash": "89b4faca7cb153737501e38f4d2d1f639c62c91dcff8982d0e81c79ba4c753df",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222933386820",
+      "title": "중드 <미인심계>美人心计, 임심여 林心如",
+      "publishedAt": "2022-11-20T14:02+09:00",
+      "sourceHash": "c33fc314d36a84a6e91edd216592aa4887cb689c1d8a58c3bf881a82d42bcb4d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222933587186",
+      "title": "중국 합창곡 <싸리뤄>(撒里啰)",
+      "publishedAt": "2022-11-21T00:10+09:00",
+      "sourceHash": "4ff651116a148f325d59e1b4a3c78a57a0f3b9288c11f19313a3dd06c08a1dca",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222933770854",
+      "title": "뱅쇼 중국어로? 热红酒 (단감 뱅쇼)",
+      "publishedAt": "2022-11-21T01:31+09:00",
+      "sourceHash": "54a85b6f8ba66c5ef0b3f25106f5e178deadf8f6bc8ef745d8773b479b117e77",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222934097638",
+      "title": "脆柿子(단감) vs 软柿子(홍시)",
+      "publishedAt": "2022-11-21T10:06+09:00",
+      "sourceHash": "56888cc835ddc26e3a602b2416b94fff6c4a4c4fd015604b40ac089ef3e6c0db",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222934832743",
+      "title": "중국어 큐티 - 每日默想 (매일성경)",
+      "publishedAt": "2022-11-22T00:10+09:00",
+      "sourceHash": "fa5d65e139089b2886365079e33b60732e9e47a83c750e126e50ab41a723dc64",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222934868588",
+      "title": "水母鸡는 곤충이었다.",
+      "publishedAt": "2022-11-22T00:54+09:00",
+      "sourceHash": "846a012763eed2c0342194b4d88375a038b7b172931b806a8d5c6c0253eabc3c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222935487259",
+      "title": "<고시사(古诗词) 300수>",
+      "publishedAt": "2022-11-22T18:08+09:00",
+      "sourceHash": "e1c1a3c1549b5a053270fa032a384d890d7151c82a6a0f22ffa724715f5d2d0e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222935760295",
+      "title": "关雎(관저)--요조숙녀, 금슬의 유래, <시경>",
+      "publishedAt": "2022-11-23T00:07+09:00",
+      "sourceHash": "b654c2d55c6b40da50e6265811035201d16eac704b32a63a51e984582a59c084",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222935971654",
+      "title": "미래 유망 신직종--훠궈요리사",
+      "publishedAt": "2022-11-23T10:17+09:00",
+      "sourceHash": "915208426e23ebb987938b85d01607175b148156d6001fa896bd4dab0abf1a09",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222936688549",
+      "title": "硕鼠(석서)--시경 속 표현의 자유, 쥐XX",
+      "publishedAt": "2022-11-24T00:52+09:00",
+      "sourceHash": "f9cf0a4cb50ac03f2abe182996e801404412ccf22d4e5886e5adbcd501971d92",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222936827503",
+      "title": "귀여운 중국노래 추천, 샤오라타(小邋遢)",
+      "publishedAt": "2022-11-24T09:18+09:00",
+      "sourceHash": "0e6a9939988ed0eb6fbd8588fee614b42306dcddc258c2c1b23fcf5d4827eb26",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222937311375",
+      "title": "타오바오 추천템, 대추♡红枣",
+      "publishedAt": "2022-11-24T18:39+09:00",
+      "sourceHash": "a25a0260ac28e9b9036ca0f49f8d7639aa92a9a54c0e6f1094ca6ea711147391",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222937510348",
+      "title": "네이버 중국어 사전- 영중사전!",
+      "publishedAt": "2022-11-25T00:10+09:00",
+      "sourceHash": "1c0de82e23a1609ff840c0e766fd14b84aec10a3cbbefeb1c4a1c56cc1558764",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222937864158",
+      "title": "귀여운 중국노래 추천, 꽁시꽁시(恭喜恭喜)",
+      "publishedAt": "2022-11-25T13:24+09:00",
+      "sourceHash": "4369aeed2198e05dcb7985a5d51c595b98a7daa2177f8ddda3555d9792d7b543",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222938094238",
+      "title": "유용한 종이 중국어 사전",
+      "publishedAt": "2022-11-25T17:39+09:00",
+      "sourceHash": "ef7e49886aec55df034c9056d3f99467f3413a1844ae848fd8a699d81b97b32c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222938415928",
+      "title": "나처럼 살지마 중국어로?",
+      "publishedAt": "2022-11-26T07:30+09:00",
+      "sourceHash": "131823a058f131aef88aeba330965c1aa6232c761e7a0fb3a3fea690e26830ce",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222938561994",
+      "title": "易水歌(역수가)-- 一去不复返",
+      "publishedAt": "2022-11-26T11:28+09:00",
+      "sourceHash": "cc294ace1b6f798d4c22685a02f600552f59c2490d13f7536c2cbf00a443a1d7",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222938898778",
+      "title": "말레이시아 한 달 살기 대신 2주 살기 도전.",
+      "publishedAt": "2022-11-26T21:31+09:00",
+      "sourceHash": "7b98dc475610913e7f827d0eb6b322d2bb13b060fce3f0db2b117fa762ac4e6f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222939059445",
+      "title": "칠리크랩, 第一个吃螃蟹的人",
+      "publishedAt": "2022-11-27T08:00+09:00",
+      "sourceHash": "a586a9b260a687cdd9a11baf5ea9b24a1a0e36da1607cab81f10e63c8be422c5",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222939443093",
+      "title": "말레이시아의 중국어",
+      "publishedAt": "2022-11-27T17:25+09:00",
+      "sourceHash": "2b7301db6b6e0accf01d4a1f95d0baa59c2b690298579f110f465c816181c138",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222939827348",
+      "title": "하오샹니, 주주애(朱主爱 Joyce Chu) 근황",
+      "publishedAt": "2022-11-28T00:01+09:00",
+      "sourceHash": "3858ab490d8fa39b95ec5f080f32018f2f9de417ca854689d9b39f71633bed38",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222940097683",
+      "title": "두 번째로 맞이한 블로그의 행운",
+      "publishedAt": "2022-11-28T10:44+09:00",
+      "sourceHash": "29a8825326ba6b9656ddd3a9606a0db93899349799019504b17713b5e2ef12f6",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222940879205",
+      "title": "중국어 동요, 중드, 蜗牛与黄鹂鸟(와우여황리조)",
+      "publishedAt": "2022-11-29T01:21+09:00",
+      "sourceHash": "2f693154fe256843b99efbfc0d4b8ab18e1b7f2c9a90d57a88860b2edee8080f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222941664986",
+      "title": "천시 지리 인화(天时地利人和), 맹자의 말이 아니었다？",
+      "publishedAt": "2022-11-29T21:31+09:00",
+      "sourceHash": "993b45f78f5808c53ea201596fb1acc21e51f7c0b7c4f9e91c078263a806e9ae",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222942042154",
+      "title": "타오바오 중국 간식 추천! 다바이투(大白兔 대백토) 토끼 사탕",
+      "publishedAt": "2022-11-30T10:44+09:00",
+      "sourceHash": "48f5e741d7189be6c596f9bc11a306597f0f866bcd40e8f2bb062e749ac6a993",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222942247212",
+      "title": "악기 연주, 서로를 위한 것, 나얼, 피아노 버전",
+      "publishedAt": "2022-11-30T14:43+09:00",
+      "sourceHash": "7af94b3a3115340d143540eb46f326dba168183f55f90787d1fffa1999562c6a",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

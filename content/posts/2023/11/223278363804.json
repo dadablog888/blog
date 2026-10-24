@@ -1,0 +1,31 @@
+{
+  "id": "223278363804",
+  "slug": "223278363804",
+  "title": "휴대폰 교체 뒤 위챗 로그인으로 애태운 날",
+  "topic": "daily",
+  "description": "새 기기에서 로그인이 되지 않았던 경험과 예전 계정 동결의 기억을 돌아본 개인 기록입니다.",
+  "summary": "업무 연락이 막힐까 걱정하며 여러 방법을 시도하고 결국 다시 로그인한 과정을 적었습니다.",
+  "sections": [
+    {
+      "heading": "개인 사례로 남긴 복구 경험",
+      "text": "친구 인증으로 오래 걸렸던 과거와 새 폰의 인증 실패를 비교합니다. 원문에는 웹에서 내려받아 설치한 과정도 있지만, 특정 다운로드 경로의 신뢰성이나 보안 설정 변경을 검증한 공식 복구 절차로 소개하지 않습니다."
+    }
+  ],
+  "keywords": [
+    "위챗 로그인",
+    "휴대폰 교체",
+    "계정 복구 경험"
+  ],
+  "takeaways": [
+    "개인 사례로 남긴 복구 경험"
+  ],
+  "related": [],
+  "introUpdatedOn": "2026-10-24",
+  "sourceCheckedAt": "2026-10-24T23:21:34+09:00",
+  "originalTitle": "위챗 로그인 안 될때 해결방법 (새 휴대폰 바꿨을 때)",
+  "originalCategory": "일상",
+  "sourceUrl": "https://blog.naver.com/dadablog888/223278363804",
+  "sourceHash": "cc29cfb93770a0a3d4410de433515705aefeef3ec62703a2df24ec637340442d",
+  "publishedAt": "2023-11-29T20:34+09:00",
+  "publishedPrecision": "minute"
+}

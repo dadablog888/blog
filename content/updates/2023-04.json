@@ -1,0 +1,108 @@
+{
+  "checkedAt": "2026-10-25T00:10:44+09:00",
+  "coverage": {
+    "pagesScanned": 13,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 390,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223064323598",
+    "223064517887",
+    "223066115611",
+    "223069515570",
+    "223073566361",
+    "223082875927",
+    "223086195635",
+    "223086925938",
+    "223087596903",
+    "223088946104"
+  ],
+  "new": 10,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2023-04",
+  "posts": [
+    {
+      "id": "223064323598",
+      "title": "举勺子 / 提筷子 - 뼈를 깎는 노력이 반드시 실패하는 이유 | 이지영",
+      "publishedAt": "2023-04-04T12:37+09:00",
+      "sourceHash": "53964a6a5d82eafc589e1172a18715f68a8603789f40e7ec599e151dde1cc50e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223064517887",
+      "title": "豆腐脑加卤？加糖? 중국의 순두부 단짠논쟁",
+      "publishedAt": "2023-04-04T16:00+09:00",
+      "sourceHash": "8448525a3817c290daead8e38fcf3377233bff427177d248b7ef2268a35cbb16",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223066115611",
+      "title": "중국화 책갈피, 샤오미 스피커 MORROR ART T1",
+      "publishedAt": "2023-04-05T23:36+09:00",
+      "sourceHash": "0d5fa51d8ef81ba2510fe68d823aa348011c3dd3035b4507ffc254ae307c288c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223069515570",
+      "title": "\"Less is more.\" - 少即是多, 적을수록 풍요롭다.",
+      "publishedAt": "2023-04-09T20:57+09:00",
+      "sourceHash": "1b62e367eb46259a47cf4e0d1ef7d24c45a4fc78b7ec5e6fe1cbde27a50bf9ac",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223073566361",
+      "title": "타오바오 직구 추천템 - 마카다미아 夏威夷果 （三只松鼠）",
+      "publishedAt": "2023-04-13T17:18+09:00",
+      "sourceHash": "39f940f9f01a2e9c1fe7a7175d09f8224aef169acf12a4105ad6eb2ecfd0a239",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223082875927",
+      "title": "서예 속 한자 맞추기.",
+      "publishedAt": "2023-04-23T17:06+09:00",
+      "sourceHash": "06456722dfca008ad004b8d16ed05a7dc8ddf6ceacefc006071a0db7d585e165",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223086195635",
+      "title": "서시 序诗 - 윤동주 尹东柱",
+      "publishedAt": "2023-04-27T00:38+09:00",
+      "sourceHash": "f2405dc61ab5ec563d8fea5922268904d83443e5e68e8482019d25d722cebf0c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223086925938",
+      "title": "필라테스 기구 중국어로?",
+      "publishedAt": "2023-04-27T17:59+09:00",
+      "sourceHash": "63bbe1edeba2c53a07455909af202725c195e60792cb78086deb5be25e273318",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223087596903",
+      "title": "오트밀크 燕麦奶",
+      "publishedAt": "2023-04-28T11:57+09:00",
+      "sourceHash": "9691d7f515d4869baacefcb79093bb27abc65e45aa70ce2ae289d228f46b54bc",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223088946104",
+      "title": "이미지- 形象，印象，图片，心像",
+      "publishedAt": "2023-04-29T23:25+09:00",
+      "sourceHash": "2c2b68854b20e4ccf8e9335589978f398fa96f96ac8256f035c7480b0a94ad93",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

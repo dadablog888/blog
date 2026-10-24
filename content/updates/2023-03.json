@@ -1,0 +1,153 @@
+{
+  "checkedAt": "2026-10-25T00:11:52+09:00",
+  "coverage": {
+    "pagesScanned": 13,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 390,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223031550246",
+    "223032641026",
+    "223033727245",
+    "223035354977",
+    "223038329217",
+    "223039553311",
+    "223040862038",
+    "223040992928",
+    "223046304181",
+    "223046475757",
+    "223049909155",
+    "223055546737",
+    "223057609301",
+    "223058686768",
+    "223059380745"
+  ],
+  "new": 15,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2023-03",
+  "posts": [
+    {
+      "id": "223031550246",
+      "title": "<화교 이야기>",
+      "publishedAt": "2023-03-01T15:42+09:00",
+      "sourceHash": "3335da4cc757dde860bcd8e93db7428fb8f8aa22a57f0e89089fef3689fc5b25",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223032641026",
+      "title": "相送 상송 - 何逊 하손",
+      "publishedAt": "2023-03-02T17:18+09:00",
+      "sourceHash": "22c914eb7983cafbca5fd99b71c86578c33379da1d1822f51a1537dbfd623f92",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223033727245",
+      "title": "鱼가 들어가는 사자성어 - 아쿠아가든카페 롯데월드몰",
+      "publishedAt": "2023-03-03T17:27+09:00",
+      "sourceHash": "e7027395a50a527ac8664b7fd2c6e8d42f3d70f3151b89087b0980345a12be9a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223035354977",
+      "title": "중국뉴스로 보는 한국뉴스 - 3.1절 기념사",
+      "publishedAt": "2023-03-05T16:11+09:00",
+      "sourceHash": "5401c90f1dd746551a17176b4694ef3bc325a89b9d355bc2e2e30a4f70c804a1",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223038329217",
+      "title": "텅텅 비었다 중국어로?",
+      "publishedAt": "2023-03-08T12:01+09:00",
+      "sourceHash": "d1e5bbab430be7c2d2e7b32531fc847381ef9a7eeb798f70f07b55fe61ec8b09",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223039553311",
+      "title": "공부는 엉덩이 힘! 중국어로?",
+      "publishedAt": "2023-03-09T15:32+09:00",
+      "sourceHash": "df668e6ba5b4ef3bfe9d9e4b85d413b0e7d2752cf3f1985aee323218b70596ea",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223040862038",
+      "title": "중국사람 인명 표기, 등소평? 덩샤오핑?",
+      "publishedAt": "2023-03-10T21:17+09:00",
+      "sourceHash": "d663c17ac184b1cb473dd8841a1378bcb4696f6c749982131e48b63ed8ef0b2c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223040992928",
+      "title": "[공유] [류재윤의 내 친구, 중국인] “중국 축적이 없다. 왜? 1년을 30번 반복했기에”",
+      "publishedAt": "2023-03-10T22:43+09:00",
+      "sourceHash": "547c5a8e0d56937a133d64e12dd1dafa27c86a4adc3ee34f2d8e072f3db94d8e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223046304181",
+      "title": "프랙탈 중국어로?",
+      "publishedAt": "2023-03-16T14:28+09:00",
+      "sourceHash": "9bc6d3bde35b995890514670528a9af551a7caed5642a6498ccfc3c9e4ff98fc",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223046475757",
+      "title": "꽃샘추위, 경칩, 중국어로?",
+      "publishedAt": "2023-03-16T16:33+09:00",
+      "sourceHash": "8303842ad3df320419185b968e88b95f743a8c9a1ba36c40281cf56ad13106b6",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223049909155",
+      "title": "赠刘景文 증류경문 - 苏轼 소식 (feat.베라왕)",
+      "publishedAt": "2023-03-20T13:09+09:00",
+      "sourceHash": "a30a991198d87623802e00a6ed773cc0e1e21abe0fab7de65e1bf7e58b9e1bd3",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223055546737",
+      "title": "등본에 적힌 옛날 숫자 한자 읽기",
+      "publishedAt": "2023-03-25T22:59+09:00",
+      "sourceHash": "4b4585f0a789d270d782f3be1f7f0a951a93b22b357df24dfa1a417a9c1a298f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223057609301",
+      "title": "뉴욕은 纽约, 뉴질랜드는 新西兰.",
+      "publishedAt": "2023-03-28T09:40+09:00",
+      "sourceHash": "68854990bb690b746b79477440d9f9ce871cf1942266404385cc6d0c9cfa4046",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223058686768",
+      "title": "감성디자인, 感性设计？情感化设计？",
+      "publishedAt": "2023-03-29T11:50+09:00",
+      "sourceHash": "4d09b4a13996f4e2509e3f38b3be702561659733244a4049ed1bf7f3faaacb20",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223059380745",
+      "title": "강의통역",
+      "publishedAt": "2023-03-29T23:08+09:00",
+      "sourceHash": "b6d79c8ed1e112e8a185c44aae0432e0aae54f4aa984f79276b85c549f8daed5",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

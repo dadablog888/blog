@@ -1,0 +1,99 @@
+{
+  "checkedAt": "2026-10-25T00:08:14+09:00",
+  "coverage": {
+    "pagesScanned": 12,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 360,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223121248198",
+    "223121834062",
+    "223130599857",
+    "223136902373",
+    "223137091881",
+    "223138321152",
+    "223139170030",
+    "223139277813",
+    "223142558644"
+  ],
+  "new": 9,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2023-06",
+  "posts": [
+    {
+      "id": "223121248198",
+      "title": "山中杂诗 산중잡시 - 吴均 오균 , 바이오필릭(Biophilic)",
+      "publishedAt": "2023-06-06T00:24+09:00",
+      "sourceHash": "6bd3ce21c374b3735a5ab8d68652d9fbff1b2883aace58a8aeed9fc4454958ad",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223121834062",
+      "title": "집사의 하루 고양이카페",
+      "publishedAt": "2023-06-06T20:34+09:00",
+      "sourceHash": "8ff8a7e9a2f9131aa37affe20b2f3174d24edcce979bd6c9b0f869aa2ee2375f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223130599857",
+      "title": "또 다른 의미의 종강",
+      "publishedAt": "2023-06-16T14:43+09:00",
+      "sourceHash": "6f67f0448f4cacbaac4e6301eb1e77ef9609ac64f1a9d96ab1928002ccc2686b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223136902373",
+      "title": "번역한 논문들",
+      "publishedAt": "2023-06-23T16:22+09:00",
+      "sourceHash": "4bcbaaa8b503c195ae68bba62472f138a36c62832a7d34db6e8281a9b3408392",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223137091881",
+      "title": "한식 퓨전 레스토랑, 수지 맛집, 라밀",
+      "publishedAt": "2023-06-23T20:15+09:00",
+      "sourceHash": "f4ad798e76eb99534e46fd47b8d73e78f881b8ab97b4c1d08360cafcc658faf7",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223138321152",
+      "title": "판교 오리지널 팬케이크 하우스",
+      "publishedAt": "2023-06-25T17:33+09:00",
+      "sourceHash": "0ac9d60cb48aedffd806d843b8ea39865b9bd6b03ccf1204726b2ab9a427352a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223139170030",
+      "title": "미니브 팝업 스토어, 더현대 서울",
+      "publishedAt": "2023-06-26T15:56+09:00",
+      "sourceHash": "4c8dd9db1c1e98ba13d49ca13aa524848b067fad89c4d7cf34af265e94205ce2",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223139277813",
+      "title": "언커먼 스토어, 더현대 서울",
+      "publishedAt": "2023-06-26T17:33+09:00",
+      "sourceHash": "58238d6f288fe15bf776c1b8c75b42e4c5941634bf2f6480955e7c35a9d9acab",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223142558644",
+      "title": "친구랑 호캉스, 비스타 워커힐",
+      "publishedAt": "2023-06-29T23:16+09:00",
+      "sourceHash": "f40ee448816e580659924e7f0586b03376b17979bde2446e96bc639136c3dce1",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-25T00:35:59+09:00",
+  "coverage": {
+    "pagesScanned": 18,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 540,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "222810122984",
+    "222822368801",
+    "222822414338",
+    "222822594295",
+    "222833855016",
+    "222834458347"
+  ],
+  "new": 6,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2022-07",
+  "posts": [
+    {
+      "id": "222810122984",
+      "title": "<그냥 하지 말라>",
+      "publishedAt": "2022-07-13T19:22+09:00",
+      "sourceHash": "cf15fc1272a270b2870905aa0b88e2e69bda7a92c80f0c6a0de5c0300c228a38",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222822368801",
+      "title": "BoA X XIN 'Better (对峙)' (보아X류위신) 중국어 가사",
+      "publishedAt": "2022-07-21T11:36+09:00",
+      "sourceHash": "0507fac9a936f2d3c2194ef2f85a4d39c46c92847acd6da20840d5d622a18b2c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222822414338",
+      "title": "잠시 쥐고 있는 찬란한 횃불",
+      "publishedAt": "2022-07-21T12:16+09:00",
+      "sourceHash": "cfe50d7af19fa285a1ba19725145001c9060bdd59314e32077ac495f7118594e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222822594295",
+      "title": "<대변동: 위기, 선택, 변화>",
+      "publishedAt": "2022-07-22T00:10+09:00",
+      "sourceHash": "5f31654f998df3f5215512ef5f99c470cfab2bb1cac487bcc8fd389b25ef9a7c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222833855016",
+      "title": "타오바오 직구 - 목에 좋은 차,목이버섯",
+      "publishedAt": "2022-07-29T16:33+09:00",
+      "sourceHash": "eb4dd90257960370d368da2395298425fed132c6c925a541abddb81050d74039",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222834458347",
+      "title": "중국 다기 - 자사호",
+      "publishedAt": "2022-07-30T11:52+09:00",
+      "sourceHash": "476ca7bf3ec82930248c04770413a7c0f9197b0910dac8e3a71c860976947f6c",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-10-25T00:37:16+09:00",
+  "coverage": {
+    "pagesScanned": 18,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 540,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "222639984258",
+    "222650065930",
+    "222650082656"
+  ],
+  "new": 3,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2022-02",
+  "posts": [
+    {
+      "id": "222639984258",
+      "title": "冬奥开幕式 - 동계올림픽 개막식(2022 베이징)",
+      "publishedAt": "2022-02-06T02:06+09:00",
+      "sourceHash": "a9c8619293d7ff5d8595764c1141c6ba62956fe1d57569e8aad3b5dd09707e05",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222650065930",
+      "title": "<New The 바른 중국어 Step4> 인강",
+      "publishedAt": "2022-02-17T12:59+09:00",
+      "sourceHash": "ea1c3ba070ef26de51a7e80683e6df20d435a225e35c21034ff36c9176bf3015",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222650082656",
+      "title": "특허번역 전문가과정",
+      "publishedAt": "2022-02-17T13:20+09:00",
+      "sourceHash": "aadf1c25da179e81c7a8d33702951fd8137bb26b1223ea0d6c3a5cb811893a5e",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

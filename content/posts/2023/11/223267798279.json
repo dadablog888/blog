@@ -1,0 +1,32 @@
+{
+  "id": "223267798279",
+  "slug": "223267798279",
+  "title": "중국어 병음을 한글로 적을 때의 망설임",
+  "topic": "translation",
+  "description": "발음과 외래어 표기의 차이를 예문으로 보고 병음 전체를 한 페이지 표로 정리한 글입니다.",
+  "summary": "익숙한 소리도 번역문에 적으려면 기준을 다시 확인하게 됩니다.",
+  "sections": [
+    {
+      "heading": "소리와 표기 기준 비교하기",
+      "text": "베이징·궁시·짜이젠 등의 예를 국립국어원 자료에 기대어 살펴봅니다. 작성자가 만든 PDF 표와 원어 발음 자료는 원문에 첨부되어 있으며 규정의 현재 상태나 표 전체의 정확성을 별도 검증한 안내는 아닙니다."
+    }
+  ],
+  "keywords": [
+    "중국어 한글 표기",
+    "병음표",
+    "외래어 표기",
+    "拼音"
+  ],
+  "takeaways": [
+    "소리와 표기 기준 비교하기"
+  ],
+  "related": [],
+  "introUpdatedOn": "2026-10-24",
+  "sourceCheckedAt": "2026-10-24T23:21:34+09:00",
+  "originalTitle": "중국어 발음 병음 표기법",
+  "originalCategory": "통번역 이야기",
+  "sourceUrl": "https://blog.naver.com/dadablog888/223267798279",
+  "sourceHash": "e90e10e5402d72c6b0819def256ce5959033153fa218a007f4cb7a9ca325528d",
+  "publishedAt": "2023-11-17T21:22+09:00",
+  "publishedPrecision": "minute"
+}

@@ -1,0 +1,126 @@
+{
+  "checkedAt": "2026-10-25T00:09:22+09:00",
+  "coverage": {
+    "pagesScanned": 12,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 360,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223089815386",
+    "223092970251",
+    "223097535710",
+    "223098531910",
+    "223100015898",
+    "223103087652",
+    "223105422813",
+    "223109929919",
+    "223110943969",
+    "223113191403",
+    "223113793612",
+    "223116370028"
+  ],
+  "new": 12,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2023-05",
+  "posts": [
+    {
+      "id": "223089815386",
+      "title": "식물성 우유(植物奶)가 우유를 대체할까?",
+      "publishedAt": "2023-05-01T00:33+09:00",
+      "sourceHash": "b7d4ab5f1371716be57845ebf7b1a134e12cb9be4eadf90fcb4d1cdcc8a3c4e7",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223092970251",
+      "title": "성악곡 <大江东去> (念奴桥∙赤壁怀古 염노교∙적벽회고 - 苏轼 소동파）",
+      "publishedAt": "2023-05-04T01:59+09:00",
+      "sourceHash": "86e8679e35db30b82efbd667d01591faf71a45dd0269d375bcf21ff8edd22055",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223097535710",
+      "title": "다홍치마 중국어로?",
+      "publishedAt": "2023-05-09T18:09+09:00",
+      "sourceHash": "bf9f917301b0b30a4f48fe93d4a851b2f4985a74977fe6eb98db2370bf1bd99f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223098531910",
+      "title": "중국에서 유명한 유튜버 권율이 权律二",
+      "publishedAt": "2023-05-10T18:44+09:00",
+      "sourceHash": "e61bff99579dbc7dcae7b5dbe282edd5c2dac14ea53a6feb8f1b3125d21480bd",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223100015898",
+      "title": "캐치 티니핑 중국어로? 奇妙萌可",
+      "publishedAt": "2023-05-12T10:15+09:00",
+      "sourceHash": "83c7a8878b6c5538a549c3ebee6453c0fbe44344377130d507a95ab79d46298c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223103087652",
+      "title": "여자도 先生이 될 수 있다.",
+      "publishedAt": "2023-05-16T00:14+09:00",
+      "sourceHash": "9e298a0747241953d28550d9c921fb8dc3f2e4ce5b525901ccf31cf10997d9a8",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223105422813",
+      "title": "타오바오 직구 - 국화차 花冠杭白菊, 장미차 法兰西胎玫瑰",
+      "publishedAt": "2023-05-18T13:20+09:00",
+      "sourceHash": "4daff2f5f86df6e87b67ed438962ad7cfa9bc683536b149cb6acc9ff5b5cfdf0",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223109929919",
+      "title": "블랙핑크 지수 JISOO - 꽃 FLOWER 가사 중국어로",
+      "publishedAt": "2023-05-23T20:56+09:00",
+      "sourceHash": "3a77def87d8bb77af6a5d2648d2c8cb26f82126cc39919b4e0fd7b8ba696174c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223110943969",
+      "title": "처음 받아본 喜糖",
+      "publishedAt": "2023-05-24T21:57+09:00",
+      "sourceHash": "d25206d76ac3afa38a990883ac16e92aca5e3d5d73adbe815e9ff7afe1e4ae62",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223113191403",
+      "title": "타오바오 CD 직배송 - 대만 밴드, 落日飞车 Sunset Rollercoaster",
+      "publishedAt": "2023-05-27T14:24+09:00",
+      "sourceHash": "9c1e6fd42550482b7a7ecbab9c2318004488993635cb48ec4f34e4d556939006",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223113793612",
+      "title": "서울드럼페스티벌 2023",
+      "publishedAt": "2023-05-28T13:25+09:00",
+      "sourceHash": "c258542ba85548837332ffef956533e6d6501f301f9ad4fb5dd5b939f04f2dd9",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223116370028",
+      "title": "为之所动, 마음이 움직이다",
+      "publishedAt": "2023-05-31T12:00+09:00",
+      "sourceHash": "f25ad6ea9fe750a49f210ace2fa29120ef769e378dde0d94db8afdb9df07577e",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "223173921908",
+  "slug": "223173921908",
+  "title": "반도체 공정과 중국 산업을 공부한 자료 모음",
+  "topic": "chinese-learning",
+  "description": "반도체 기본 원리 영상과 중국 산업 분석을 보며 중국어 용어를 정리했습니다.",
+  "summary": "AI 뉴스를 계기로 반도체 공부를 시작해 8대 공정의 중국어 명칭과 관련 영상에서 배운 내용을 남깁니다.",
+  "sections": [
+    {
+      "heading": "공정 용어에서 산업 분석으로 넓어진 공부",
+      "text": "웨이퍼 제조부터 패키징까지의 공정 용어를 정리하고, 중국 장비와 룽손의 생태계, 칩렛 패키징을 다룬 자료를 모읍니다. 산업의 기술 격차와 전망은 당시 참고 영상 및 기사의 분석으로 소개되며 현재 상황을 검증한 판단은 아닙니다."
+    }
+  ],
+  "keywords": [
+    "반도체 중국어",
+    "芯片制造",
+    "칩렛"
+  ],
+  "takeaways": [
+    "공정 용어에서 산업 분석으로 넓어진 공부"
+  ],
+  "related": [
+    "223172864217"
+  ],
+  "introUpdatedOn": "2026-10-25",
+  "sourceCheckedAt": "2026-10-25T00:04:57+09:00",
+  "originalTitle": "반도체 공부자료 정리",
+  "originalCategory": "중국어 잡동사니",
+  "sourceUrl": "https://blog.naver.com/dadablog888/223173921908",
+  "sourceHash": "b076e31ab6bbb70a7f3d43589f27a4c9b3c35882e4023dc4f7f3c053084763b3",
+  "publishedAt": "2023-08-03T16:50+09:00",
+  "publishedPrecision": "minute"
+}

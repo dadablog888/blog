@@ -1,0 +1,117 @@
+{
+  "checkedAt": "2026-10-25T00:33:53+09:00",
+  "coverage": {
+    "pagesScanned": 18,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 540,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "222869732709",
+    "222873094376",
+    "222875468773",
+    "222875809102",
+    "222876000176",
+    "222877665960",
+    "222882992370",
+    "222883053515",
+    "222883756309",
+    "222884429828",
+    "222886337846"
+  ],
+  "new": 11,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2022-09",
+  "posts": [
+    {
+      "id": "222869732709",
+      "title": "은평한옥박물관, 1인1잔, 캠핑카라반",
+      "publishedAt": "2022-09-08T00:26+09:00",
+      "sourceHash": "48df7f658b8b72f44be64edf6105a3ab7603f12f37e776bc594ff5fd92f7ffca",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222873094376",
+      "title": "消费者，用户，顾客，客户",
+      "publishedAt": "2022-09-13T02:00+09:00",
+      "sourceHash": "00ff6d390ce71df333bfa1a96eff0bd16a816509d2a39d023971fe07e5ee79d6",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222875468773",
+      "title": "热度排斥症 - 핫템거부증",
+      "publishedAt": "2022-09-15T16:49+09:00",
+      "sourceHash": "9f8a8455e3f8e1f4b40f4194480979f4380eb86b0877c9aec0388e5ab3c8ac50",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222875809102",
+      "title": "《丑奴儿·书博山道中壁》",
+      "publishedAt": "2022-09-16T00:11+09:00",
+      "sourceHash": "89c4b3c417a0a6a64060f018d9476e8518082d0b0b64e7fa1130e17113b04f88",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222876000176",
+      "title": "(스크랩) 모두가 철수하는 데는 이유가 있습니다.",
+      "publishedAt": "2022-09-16T09:46+09:00",
+      "sourceHash": "74515b863f6537ca1a4e6b1d63ecadd9b1734665775ccbeaa6fd2edd43084f06",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222877665960",
+      "title": "특허번역 전문가과정 수료",
+      "publishedAt": "2022-09-18T14:38+09:00",
+      "sourceHash": "56570905bbf46ac18c28bbf1a887886d0c755566857c2271fb734b6840b635e5",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222882992370",
+      "title": "北大",
+      "publishedAt": "2022-09-24T14:49+09:00",
+      "sourceHash": "6336f8fd712d297be52d722cea7f71dd3deb5894182a8e469ca9ee0f6d12290a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222883053515",
+      "title": "논문번역",
+      "publishedAt": "2022-09-24T16:41+09:00",
+      "sourceHash": "fec694c852db87f25874db1c9b78e9bd27b6caa8eb4089e0384cbee47f20c109",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222883756309",
+      "title": "유학생 인터뷰",
+      "publishedAt": "2022-09-25T17:27+09:00",
+      "sourceHash": "a46df508e9da712d8e8759f2f52e453d3c2d381c0b5358255fa42ff6770a9cc4",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222884429828",
+      "title": "초코에스프레소. 커피단어정리.",
+      "publishedAt": "2022-09-26T11:03+09:00",
+      "sourceHash": "74199c243322bf47530d0af2678b7cee4c52add34a2f6ba6b259abee343ec006",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222886337846",
+      "title": "브랜딩 텀 정리",
+      "publishedAt": "2022-09-28T11:30+09:00",
+      "sourceHash": "77210e04b35a8c75a24dc5fb8a1a9c5f9355eee1ae5e6e0bd494fb6a83aa9ed6",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

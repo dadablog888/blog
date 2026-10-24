@@ -1,0 +1,108 @@
+{
+  "checkedAt": "2026-10-25T00:04:57+09:00",
+  "coverage": {
+    "pagesScanned": 11,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 330,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223172121797",
+    "223172864217",
+    "223173921908",
+    "223175559889",
+    "223175722373",
+    "223178482940",
+    "223180396179",
+    "223181909110",
+    "223194708322",
+    "223196174592"
+  ],
+  "new": 10,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2023-08",
+  "posts": [
+    {
+      "id": "223172121797",
+      "title": "당근라페 carottes râpées 法式胡萝卜沙拉",
+      "publishedAt": "2023-08-01T20:07+09:00",
+      "sourceHash": "881441f689f3c9a21ebff86f8b00c79606c2bffd69a1976a1af3163505e2d366",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223172864217",
+      "title": "중국판 '챗GPT', 바이두 어니봇 (ERNIE Bot) 文心一言",
+      "publishedAt": "2023-08-02T15:32+09:00",
+      "sourceHash": "ac58c485cd8cc6dac99c31beff5d586ab8875f06de94ac413aeb35580e0793a2",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223173921908",
+      "title": "반도체 공부자료 정리",
+      "publishedAt": "2023-08-03T16:50+09:00",
+      "sourceHash": "b076e31ab6bbb70a7f3d43589f27a4c9b3c35882e4023dc4f7f3c053084763b3",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223175559889",
+      "title": "중국인이 보는 한국경제의 역사.",
+      "publishedAt": "2023-08-05T14:56+09:00",
+      "sourceHash": "e8a2cd21fc6c957b3244654ef1114e69fa561a249ad149121d1adae795dc0ec2",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223175722373",
+      "title": "소이연남 똠얌쌀국수, 레고샵 미니 피겨, 신세계백화점 경기점",
+      "publishedAt": "2023-08-05T19:36+09:00",
+      "sourceHash": "855fc369168485399a0a67b89060def37449a83eb258257913e277bbc345fe48",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223178482940",
+      "title": "파라다이스 X 컴패션 collaboration 전 “Together 함께”",
+      "publishedAt": "2023-08-08T21:22+09:00",
+      "sourceHash": "a9a216bd39d27f0f8d6bb78b011c168115e03f13a0bd83077fb3badcf5543392",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223180396179",
+      "title": "갈륨, 게르마늄 중국어로? 镓，锗",
+      "publishedAt": "2023-08-10T20:31+09:00",
+      "sourceHash": "04e5da398d0fb3f2066df55ae15fae78306a6d9ed1faf63db1bafe1f753af8cd",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223181909110",
+      "title": "흔치 않은 빠바, LAB of PARIS BAGUETTE, 판교호감샌드",
+      "publishedAt": "2023-08-12T16:45+09:00",
+      "sourceHash": "3b7e3bd581959f4ba2cb0b1333c9c1701b2a45a55558cfaf48824d9819b017aa",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223194708322",
+      "title": "중국과 대만(타이완)의 언어 차이",
+      "publishedAt": "2023-08-27T14:35+09:00",
+      "sourceHash": "0e5d9a44796c8f6641206e6a4927c3cad7d384a3535e41bd9c1fbc2833f46b75",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223196174592",
+      "title": "중국 식물이름 찾기",
+      "publishedAt": "2023-08-29T01:25+09:00",
+      "sourceHash": "46c5a83926169115880a20c3f6f0ae57ed13d7a1714cb3bb5be04fcd1b126b7b",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

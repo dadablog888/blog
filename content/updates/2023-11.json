@@ -1,0 +1,441 @@
+{
+  "checkedAt": "2026-10-24T23:21:34+09:00",
+  "coverage": {
+    "pagesScanned": 10,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 300,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223258273348",
+    "223258961730",
+    "223259564613",
+    "223260472180",
+    "223260610232",
+    "223260880967",
+    "223261754608",
+    "223261759722",
+    "223262067960",
+    "223262635662",
+    "223262783005",
+    "223262967256",
+    "223263248643",
+    "223263564366",
+    "223264177428",
+    "223264184823",
+    "223264368214",
+    "223264504305",
+    "223265224354",
+    "223265721727",
+    "223265845751",
+    "223266626413",
+    "223267134597",
+    "223267798279",
+    "223268111655",
+    "223268244247",
+    "223268898929",
+    "223268969650",
+    "223269051060",
+    "223269487248",
+    "223269531401",
+    "223270044610",
+    "223270500784",
+    "223270548488",
+    "223271110946",
+    "223271633154",
+    "223272692859",
+    "223273443135",
+    "223273689691",
+    "223273986087",
+    "223274610788",
+    "223275214205",
+    "223275334408",
+    "223276980955",
+    "223278363804",
+    "223278458707",
+    "223279086469"
+  ],
+  "new": 47,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2023-11",
+  "posts": [
+    {
+      "id": "223258273348",
+      "title": "231107_일상",
+      "publishedAt": "2023-11-07T17:05+09:00",
+      "sourceHash": "663d2d247e9532adacf38d31cb4bde8fc2978015f3db43789981b9797c42a81b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223258961730",
+      "title": "빈대 중국어로? 臭虫",
+      "publishedAt": "2023-11-08T11:41+09:00",
+      "sourceHash": "4122f18cf98d92105840dd3f26be4e74604ce468b662006a9e1e18687bc803c4",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223259564613",
+      "title": "핸드폰 충전할 수 있는 곳, 지하철 디지털 종합 안내도",
+      "publishedAt": "2023-11-08T22:44+09:00",
+      "sourceHash": "316119a9562b2b0545693e9d3efbec5cdfd6ac507b047fd240fc86b010568582",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223260472180",
+      "title": "원피스-连衣裙, 서초-瑞草-서리풀",
+      "publishedAt": "2023-11-09T20:58+09:00",
+      "sourceHash": "6005b1eb631385ebe56060e3845cc3340ece5bdefee6c0afa44cb5ad1c984b9f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223260610232",
+      "title": "목캔디 - 청인유쾌환 / 念慈庵枇杷膏 / 金嗓子 / 王老吉 / 冰喉30分钟",
+      "publishedAt": "2023-11-10T08:00+09:00",
+      "sourceHash": "d46ca34e1130ca0c67136d6485020aacdc7ca4acd90174c700c38e728aaaef5b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223260880967",
+      "title": "내몽골의 아침식사, 소고기육포 밀크티 牛肉干奶茶 (수테차이)",
+      "publishedAt": "2023-11-10T10:28+09:00",
+      "sourceHash": "a09dc7996a3b115e6f235151d6094de47e76517ae49b7ffd19aa34927f292fd8",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223261754608",
+      "title": "봉증위좌승장이십이운(奉赠韦左丞丈二十二 韵 ) - 두보(杜甫)",
+      "publishedAt": "2023-11-11T10:20+09:00",
+      "sourceHash": "accf5c551bf715ee5efe97f148ea2f744f115fb3c456f5a7e202ca269905cc2e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223261759722",
+      "title": "(쉐도잉 연습) “读书破万卷，下笔如有神” - 20160518 中国诗词大会",
+      "publishedAt": "2023-11-11T10:30+09:00",
+      "sourceHash": "bac6ec5d8f420e7c6545274c9d17082572d8fdb20587a14512fd930daf79cf90",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223262067960",
+      "title": "써마지, 티타늄리프팅 중국어로? 热玛吉，钛提升 （ 피부관리 단어 정리）",
+      "publishedAt": "2023-11-11T19:49+09:00",
+      "sourceHash": "ca397a523bceebd5c9e3ef100ba09ce0fd3a2e7b71345559d7fc98a222fdc9d1",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223262635662",
+      "title": "목에 좋은 반대해(胖大海) 차",
+      "publishedAt": "2023-11-12T16:38+09:00",
+      "sourceHash": "bcc22107a7968e9f6a7afba16d5f726d3646c2f969a650437538ed918908d437",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223262783005",
+      "title": "바이두 인기 검색어 - '배추값'보다 싼 털게 가격(大闸蟹跌出“白菜价”)",
+      "publishedAt": "2023-11-12T20:28+09:00",
+      "sourceHash": "d76e516a00fa1bdbc03089e19ea16f7fd65626db9dafd4cde43e6c154a94593c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223262967256",
+      "title": "바이두 인기 검색어 - 리자치(리쟈치 李佳琪) 광군제 매출 4조5천억원 넘어(李佳琦双十一收入超250亿)",
+      "publishedAt": "2023-11-13T07:30+09:00",
+      "sourceHash": "cc4c9dfaed8ca01c0ba2de9aacb36dcc926020df6bd3f24addef5c9648ef38fb",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223263248643",
+      "title": "바이두 인기 검색어 - 한국 초중고생 사이에서 유행하는 당근칼(韩国中小学开始流行萝卜刀)",
+      "publishedAt": "2023-11-13T12:00+09:00",
+      "sourceHash": "574e8c4cbd9020dd6dc3ff32b4b005fa926eccd18d217a52acec01613d2ee126",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223263564366",
+      "title": "애드포스트 소소한 수익",
+      "publishedAt": "2023-11-13T16:23+09:00",
+      "sourceHash": "4dd54b0c4a18f03cc258e7a12d1ed704405d4f3500f3f08aec39afdab181f399",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223264177428",
+      "title": "民众 = 민중? 민중,대중,국민,시민 / 公民,人民,国民, 居民,民众,群众",
+      "publishedAt": "2023-11-14T09:17+09:00",
+      "sourceHash": "78b258c40a644529e8a8c91fcb1c56571d0760c7d7d7f91d097d5574457197cc",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223264184823",
+      "title": "바이두 인기 검색어 - 각국 빈대 사태로 영화관도 못가(多国爆发臭虫危机 民众不敢去电影院)",
+      "publishedAt": "2023-11-14T09:45+09:00",
+      "sourceHash": "252be238d9b0c0bb64237cc179d7f5372dfbea9f50337eb0a466912e9d6700a6",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223264368214",
+      "title": "말레이시아 한 달 살기 - 두 번째 여행",
+      "publishedAt": "2023-11-14T12:55+09:00",
+      "sourceHash": "ce5eda6dfae6594c395e7e30500d8c5fb36fca20aefc6dd691880a18b55de6e4",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223264504305",
+      "title": "세계2위 초고층 메르데카118(Merdeka118, PNB118) 완공?",
+      "publishedAt": "2023-11-14T15:13+09:00",
+      "sourceHash": "278c1a8f5e8852b5cf523e6c29c8f0ad70059579b085a5a76f738fa0e686d2cc",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223265224354",
+      "title": "바이두 인기 검색어 - 중국 국민 며칠 전 모두 안전하게 가자지구 떠나(中国公民已于目前全部安全离开加沙)",
+      "publishedAt": "2023-11-15T10:00+09:00",
+      "sourceHash": "de8711f08bb4a79a3552c02608f9610376eee8932cd08a9df03f000037f7ed3e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223265721727",
+      "title": "홍콩 대만 기침약 닌지옴 천패 비파고 NIN JIOM PEI PA KOA 京都念慈菴蜜炼川贝枇杷膏",
+      "publishedAt": "2023-11-15T18:23+09:00",
+      "sourceHash": "c23f81c08391251d4c62773a33abbc920d0152dd4e85141056d12855a652c5b2",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223265845751",
+      "title": "토피넛라떼 중국어로? 太妃榛果拿铁",
+      "publishedAt": "2023-11-15T21:04+09:00",
+      "sourceHash": "70a95adcfd98d86842fa633158d3b0b8c98f5987174484a433bbda7c55bd4c0f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223266626413",
+      "title": "궈차오 国潮 = 애국소비?",
+      "publishedAt": "2023-11-16T17:02+09:00",
+      "sourceHash": "2011ecfd59864e03987685e1b080885557132d2fa4f33f6ad631b242ac5dc6b6",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223267134597",
+      "title": "궈차오 뜻, 国潮, China-Chic",
+      "publishedAt": "2023-11-17T07:56+09:00",
+      "sourceHash": "dca74a0f71b799eabec858521b4f6b89c592c60ec1010dca430421f290c046ec",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223267798279",
+      "title": "중국어 발음 병음 표기법",
+      "publishedAt": "2023-11-17T21:22+09:00",
+      "sourceHash": "e90e10e5402d72c6b0819def256ce5959033153fa218a007f4cb7a9ca325528d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223268111655",
+      "title": "바이두 인기 검색어 - 일본식품 수입규제 철폐 요청에 대한 중국의 입장 中方回应日方要求取消日本食品禁令",
+      "publishedAt": "2023-11-18T10:38+09:00",
+      "sourceHash": "5c1064b1ce0b818e13c5e3dc7e2c3ced8f4b429565ec8e05935d737c936d3255",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223268244247",
+      "title": "샤인머스캣 중국어로? 香印青提",
+      "publishedAt": "2023-11-18T14:44+09:00",
+      "sourceHash": "08e7d77cef291f8180e818bfc75040f0e469ae01433093a0b710e67cb08c7b78",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223268898929",
+      "title": "저스트고 말레이시아 2023-2024",
+      "publishedAt": "2023-11-19T15:25+09:00",
+      "sourceHash": "41aced9c2e44d4b14350d7982eb8b7321c39d68af82f1637b1ee6800ad8c07e6",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223268969650",
+      "title": "바이두 인기 검색어 - 한국 2027년부터 개 식용 금지韩国从2027年开始禁食狗肉",
+      "publishedAt": "2023-11-19T17:22+09:00",
+      "sourceHash": "300702eccbc39618a3e15e83c39af3aee86fb866b17576f00f18bd1a86efb5b9",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223269051060",
+      "title": "중국어 발음 병음 성조 입력하는 법(10초컷 꿀팁)",
+      "publishedAt": "2023-11-19T19:37+09:00",
+      "sourceHash": "91dc4a76d96b5f7b47e7f2ffc73314600ab4518874ca562a110e5c8bec0fe65f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223269487248",
+      "title": "바이두 인기 검색어 - 최적의 수면시간 정말 8시간일까? 最佳睡眠时长真的是8小时? (잘자 중국어로)",
+      "publishedAt": "2023-11-20T09:53+09:00",
+      "sourceHash": "ef9f7c565149869bec9fae6582956a0af0ae37fda541c13d05af17135380f7bb",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223269531401",
+      "title": "[1년 전 오늘] <안개비연가> 배우들 근황 - 夜上海야상해 가사 뜻 해석",
+      "publishedAt": "2023-11-20T11:50+09:00",
+      "sourceHash": "e40c51e83aba202b70841b86c539c3db7407ef0b001615e91ee0b160246a7f76",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223270044610",
+      "title": "로보락 로봇청소기 S8 Pro Ultra - 石头自清洁扫拖机器人G20系列, 샤오미 생태계",
+      "publishedAt": "2023-11-20T20:04+09:00",
+      "sourceHash": "ef37df82fd24256408d402643b99c10f8647c50dc9b4b5fdedcfd19f2ba6f3c1",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223270500784",
+      "title": "공감 중국어로? 同理心, 共识, 共鸣, 同意, 共情",
+      "publishedAt": "2023-11-21T10:14+09:00",
+      "sourceHash": "b6fd7c8aad47b56370beb4a6803e17e8a042579ffed4a1e40e6e4d924262a464",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223270548488",
+      "title": "공부 asmr 추천",
+      "publishedAt": "2023-11-21T11:04+09:00",
+      "sourceHash": "7e131cbbd678b21660ad894f93ff0a99f669950f7e427b85d353c406319b5611",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223271110946",
+      "title": "말레이시아 중국어에 대한 생각",
+      "publishedAt": "2023-11-21T21:34+09:00",
+      "sourceHash": "a53ebdbf9ff5e5c336e46a59693e225f93aceb6e110c7fc7d7ee5a31de46eebf",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223271633154",
+      "title": "바이두 인기 검색어- 손흥민 팬 홋스퍼 유니폼 입고 도발하다 폭행당해 孙兴慜球迷穿热刺球衣挑衅被打",
+      "publishedAt": "2023-11-22T13:03+09:00",
+      "sourceHash": "73bc53890352a0a8339812c39c5541b87b067700326c5ce64382a11255de5a4f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223272692859",
+      "title": "울쎄라 중국어로? 超声刀, 超声炮",
+      "publishedAt": "2023-11-23T14:23+09:00",
+      "sourceHash": "7989bb2351d0a1a7d6cb9f588c5a4cb7297bedf70f0d32e7abb879705e9bc727",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223273443135",
+      "title": "金榜题名(금방제명=합격) & 人生四大喜事 (인생 4대 경사)",
+      "publishedAt": "2023-11-24T10:07+09:00",
+      "sourceHash": "29ac6e052bf138826d2d4559aeeffec8dafde24db8ad5f5f3f50afff30213c99",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223273689691",
+      "title": "바이두 인기 검색어- 마윈 근황, 마윈 '마자 키친(Ma Jia Kitchen)' 식품회사 설립 马云公司成立'马家厨房'食品公司",
+      "publishedAt": "2023-11-24T14:46+09:00",
+      "sourceHash": "652b145a87d54994aa83e13ebd3bfee6b2ba4ac92e8b8615e9f3d05b628c46b2",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223273986087",
+      "title": "Accentia, 네이버 사전에서 대화 녹음하기",
+      "publishedAt": "2023-11-24T20:32+09:00",
+      "sourceHash": "dc26dbd2ef999a33cf005113bab536689a4fbc51a83206612174325741e26368",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223274610788",
+      "title": "추어탕 중국어로? 泥鳅汤",
+      "publishedAt": "2023-11-25T19:10+09:00",
+      "sourceHash": "fa8e1c677f2bc9594503a5733614c94d8950bcfec2b4c344224ad2572a1424c3",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223275214205",
+      "title": "바이두 인기 검색어- 동북지역 눈폭탄 东北是捅了雪窝了",
+      "publishedAt": "2023-11-26T17:34+09:00",
+      "sourceHash": "4a49c9bdacfcfe9e52099e93c980c9c2eb25f3d4ec2f6f684927736e1fbd4305",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223275334408",
+      "title": "고수 피자, 샹차이 피자 香菜比萨",
+      "publishedAt": "2023-11-26T20:30+09:00",
+      "sourceHash": "b7b6c880a292a6f4fd45c6aaa885bedd0891d3b542e0fde804f31dc4bc6d9f7e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223276980955",
+      "title": "모델좌 중국 이름 赵旖旎 Zhao Yini",
+      "publishedAt": "2023-11-28T13:44+09:00",
+      "sourceHash": "46849f4c3c1322103f65c71455f3894cbe3e8d18481f2d63c3b1da198ca5e97e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223278363804",
+      "title": "위챗 로그인 안 될때 해결방법 (새 휴대폰 바꿨을 때)",
+      "publishedAt": "2023-11-29T20:34+09:00",
+      "sourceHash": "cc29cfb93770a0a3d4410de433515705aefeef3ec62703a2df24ec637340442d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223278458707",
+      "title": "탕웨이 근황, 바이두 인기 검색어 - 딸 하교길 마중나간 탕웨이 汤唯接女儿放学",
+      "publishedAt": "2023-11-29T22:29+09:00",
+      "sourceHash": "320bfb23cbf55657aec7eb941c195285773ca97d6d9f29d42169cae475d9ee94",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223279086469",
+      "title": "북경대, 청화대, 인민대 수재들의 거위다리구이 쟁탈전 鹅腿之争，清北之争",
+      "publishedAt": "2023-11-30T15:17+09:00",
+      "sourceHash": "4e379364e444c179f15de557dcc6543e44ca17ae7ed88dcdbb42f274f2b8f59d",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

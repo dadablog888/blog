@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-10-25T00:04:28+09:00",
+  "coverage": {
+    "pagesScanned": 11,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 330,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223206852741",
+    "223219862818",
+    "223225202984"
+  ],
+  "new": 3,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2023-09",
+  "posts": [
+    {
+      "id": "223206852741",
+      "title": "페리에 중국어로? 巴黎水(파리수)",
+      "publishedAt": "2023-09-09T18:04+09:00",
+      "sourceHash": "b381054914c7baa034304941e2cf9c1d182c29e1bd36b30004088f45fd9b912d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223219862818",
+      "title": "연구원",
+      "publishedAt": "2023-09-24T00:21+09:00",
+      "sourceHash": "d9a522d1b7437c9393f2afab5110b30cc47ad83d5ebab51b206b2d997801c08f",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223225202984",
+      "title": "텍사스데브라질, 가족모임 장소 추천",
+      "publishedAt": "2023-09-30T22:11+09:00",
+      "sourceHash": "18de3087a6de5eee7b72e37b38fc5b81b4ba3ea32e4720df082452685ea9b60f",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

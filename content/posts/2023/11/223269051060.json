@@ -1,0 +1,31 @@
+{
+  "id": "223269051060",
+  "slug": "223269051060",
+  "title": "번역기 병음을 복사해 성조를 적던 방법",
+  "topic": "chinese-learning",
+  "description": "구글번역기의 병음 출력을 복사해 글에 쓰고 틀린 독음을 수정하던 개인적인 작업 요령입니다.",
+  "summary": "중국어 문구와 한자를 넣어 성조가 표시된 로마자 표기를 가져오는 과정을 적었습니다.",
+  "sections": [
+    {
+      "heading": "당시 화면을 이용한 입력 메모",
+      "text": "작성자는 한 문장으로 복사 과정을 보여주고 원하는 독음의 다른 한자로 수정할 수도 있다고 설명합니다. 2023년 제품 화면과 기능에 바탕을 둔 경험으로 현재 기능 비교나 정확한 독음의 자동 보장을 뜻하지 않습니다."
+    }
+  ],
+  "keywords": [
+    "병음 입력",
+    "성조 표기",
+    "번역기 활용"
+  ],
+  "takeaways": [
+    "당시 화면을 이용한 입력 메모"
+  ],
+  "related": [],
+  "introUpdatedOn": "2026-10-24",
+  "sourceCheckedAt": "2026-10-24T23:21:34+09:00",
+  "originalTitle": "중국어 발음 병음 성조 입력하는 법(10초컷 꿀팁)",
+  "originalCategory": "중국어 잡동사니",
+  "sourceUrl": "https://blog.naver.com/dadablog888/223269051060",
+  "sourceHash": "91dc4a76d96b5f7b47e7f2ffc73314600ab4518874ca562a110e5c8bec0fe65f",
+  "publishedAt": "2023-11-19T19:37+09:00",
+  "publishedPrecision": "minute"
+}

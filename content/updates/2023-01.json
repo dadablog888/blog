@@ -1,0 +1,135 @@
+{
+  "checkedAt": "2026-10-25T00:15:25+09:00",
+  "coverage": {
+    "pagesScanned": 14,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 420,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "222971552096",
+    "222971939468",
+    "222972157686",
+    "222974120152",
+    "222975098459",
+    "222975956431",
+    "222978011305",
+    "222978929845",
+    "222979463657",
+    "222983360597",
+    "222984146870",
+    "222986955147",
+    "222993535393"
+  ],
+  "new": 13,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2023-01",
+  "posts": [
+    {
+      "id": "222971552096",
+      "title": "2022년 쿠알라룸푸르 새해 전야제 불꽃놀이 취소",
+      "publishedAt": "2023-01-01T00:29+09:00",
+      "sourceHash": "7fec6a5128a127ecb53ceadec423452c19ac28e6a4801573efbff85c4cc7341c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222971939468",
+      "title": "말레이시아 2주 살기 - 적당히 한산한 라라포트 lalaport 일본 스타일 쇼핑몰",
+      "publishedAt": "2023-01-01T17:10+09:00",
+      "sourceHash": "981906e0d956b727a384d2a21311b4c9d34a6f8a6a1f31a39e239dfff02d7464",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222972157686",
+      "title": "말레이시아 맛집 - 잘란 알로 Jalan Alor 야시장 추천가게 Meng Kee 明记烧鱼",
+      "publishedAt": "2023-01-01T22:14+09:00",
+      "sourceHash": "d01c3da0094ea81f8acca29bacde0e4f69a4e7c90a8c54ffd5ff1a9e30c8e046",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222974120152",
+      "title": "말레이시아 맛집 - pokok, 라라포트 lalaport 브런치카페 쿠알라룸푸르",
+      "publishedAt": "2023-01-03T21:37+09:00",
+      "sourceHash": "eb29482270d36d15f2d188add2b8f09bc33f068a4435e2efdd26cd2e89f7d3b2",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222975098459",
+      "title": "쿠알라룸푸르 갈만한 곳 - KL 타워 전망대 예약, 메르데카118(Merdeka 118)",
+      "publishedAt": "2023-01-04T21:39+09:00",
+      "sourceHash": "89f16c9d47698cd29cac8bf59289ec83bb23aa17657e5155c3d657bbfbbe28d2",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222975956431",
+      "title": "말레이시아 메르데카118 vs 중국 상하이 타워, 세계 2위 높은 건물은?",
+      "publishedAt": "2023-01-05T20:19+09:00",
+      "sourceHash": "4bf67f5219159efcecbe21c1387a4f4dec594945025fbc980db1bbaa951c9265",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222978011305",
+      "title": "말레이시아 2주 살기 - 1일투어(국립모스크, 바투동굴, 원숭이 먹이주기, 반딧불, 블루티어, 페트로나스타워 기념촬영)",
+      "publishedAt": "2023-01-08T07:00+09:00",
+      "sourceHash": "686c157919d01079cf4f8c99cc34ba145f813823697100667ba97fc50b1dbfa2",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222978929845",
+      "title": "말레이시아 2주 살기 - 과일천국 2탄, 과자, 라면 추천",
+      "publishedAt": "2023-01-09T11:36+09:00",
+      "sourceHash": "be496faa7d93be1c3c4eb2bca4f8c604feccfa2b4be88a160e9830339afa30f1",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222979463657",
+      "title": "말레이시아 스타벅스 - Jasmine Clementine Pure Matcha Latte",
+      "publishedAt": "2023-01-09T20:46+09:00",
+      "sourceHash": "a0ea728006d3044890c19cabfe91c41e9bd44a4d3d705ec5abccef802601c111",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222983360597",
+      "title": "말레이시아 2주 살기 - 에어비앤비 숙소 더 로버슨 레지던스 the Robertson Residences",
+      "publishedAt": "2023-01-13T15:48+09:00",
+      "sourceHash": "19af2ae9dfee7dfe8e3441134c295bbb1cbaddafa44d5023d48ad7ca356fb570",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222984146870",
+      "title": "페트로나스 트윈타워 예약, 입장, 후기",
+      "publishedAt": "2023-01-14T15:10+09:00",
+      "sourceHash": "8618e1d2b505c20cde15b76f4afae07d681375134696643806e6296b2def3f21",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222986955147",
+      "title": "쿠알라룸푸르 아이와 갈만한 곳 - 페트로사이언스 PETROSAINS, 미니어처박물관 MINNATURE",
+      "publishedAt": "2023-01-17T15:34+09:00",
+      "sourceHash": "dc8a80785750e975bf9b731e784f8e9576b8b0efe2a70d7bc1519e1ebeb700dc",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "222993535393",
+      "title": "龟虽寿 귀수수 - 曹操 조조",
+      "publishedAt": "2023-01-25T13:59+09:00",
+      "sourceHash": "8379c6be15797d66062a97c5f019fd0b94c56c8910b424fb84b27df642e7cabb",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}
