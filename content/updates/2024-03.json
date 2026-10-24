@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-10-24T22:44:44+09:00",
+  "coverage": {
+    "pagesScanned": 7,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 210,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223371905074",
+    "223384868467",
+    "223392953974",
+    "223395073096",
+    "223401421777"
+  ],
+  "new": 5,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2024-03",
+  "posts": [
+    {
+      "id": "223371905074",
+      "title": "최첨단기술 - 高科技 / 硬科技 / 黑科技",
+      "publishedAt": "2024-03-03T20:47+09:00",
+      "sourceHash": "2c5eafebde212402b962aa4cdd1b8154d558ae2ae7ed8a55718302ee9200ca33",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223384868467",
+      "title": "한중경제무역협력 동시통역",
+      "publishedAt": "2024-03-16T00:17+09:00",
+      "sourceHash": "0781140af871d7dfd91af51eef44d636eb0049004701a957a55237018a775d31",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223392953974",
+      "title": "북촌 한옥마을, 런던베이글뮤지엄",
+      "publishedAt": "2024-03-23T18:27+09:00",
+      "sourceHash": "061c8667f53b742e2abfd43efca63a29648dd1d886a8f80ade7e3cdf082cc4fc",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223395073096",
+      "title": "大熊猫 와 小熊猫 의 차이",
+      "publishedAt": "2024-03-25T21:25+09:00",
+      "sourceHash": "ac15916560e515a2f2b035aa3c158ae92fa8f39ac66b25ec597d0097a103d0f7",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223401421777",
+      "title": "카프리치오 随想曲 Capriccio",
+      "publishedAt": "2024-03-31T22:53+09:00",
+      "sourceHash": "b69fced0b20c3938d4d5852c2229d869eb55e0b811690c02dd99d36dbe9a3f26",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

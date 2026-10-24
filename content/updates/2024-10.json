@@ -1,0 +1,54 @@
+{
+  "checkedAt": "2026-10-24T22:59:48+09:00",
+  "coverage": {
+    "pagesScanned": 4,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 120,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223617262210",
+    "223619097688",
+    "223620480287",
+    "223639653830"
+  ],
+  "new": 4,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2024-10",
+  "posts": [
+    {
+      "id": "223617262210",
+      "title": "<월량대표아적심> 가사 발음, 뜻 번역 - 한강 작가의 플레이리스트",
+      "publishedAt": "2024-10-13T16:48+09:00",
+      "sourceHash": "99576cd6581b08a0fabaf053966ee5d1cfc6621af848d85578bbeb49f4a4083c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223619097688",
+      "title": "看(~~해 보다) - 试试看 / 尝尝看 / 想想看 / 等等看",
+      "publishedAt": "2024-10-14T23:37+09:00",
+      "sourceHash": "a4cb4a828863acbb50dacafa07259c17c4da01960813cc113660ee4f8c645948",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223620480287",
+      "title": "개미는 뚠뚠 오늘도, 중국어로?",
+      "publishedAt": "2024-10-15T23:24+09:00",
+      "sourceHash": "d4bac9a71556a3279a8a49a74b95fc479c4bc195222d543a2e32952da06c4279",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223639653830",
+      "title": "文创 문화창작, 文创产品 문화상품, 文创产业 문화창조산업",
+      "publishedAt": "2024-10-30T13:44+09:00",
+      "sourceHash": "1e33563da4ac091a39a6141cd7a433848447579b8ecbe778965f2d5e47fb326f",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

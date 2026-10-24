@@ -1,0 +1,171 @@
+{
+  "checkedAt": "2026-10-24T22:47:39+09:00",
+  "coverage": {
+    "pagesScanned": 7,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 210,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223468137632",
+    "223470967865",
+    "223476809118",
+    "223477683081",
+    "223478774979",
+    "223479720858",
+    "223480398608",
+    "223481349837",
+    "223481907254",
+    "223483528690",
+    "223484492687",
+    "223485640657",
+    "223486714195",
+    "223488897192",
+    "223489562600",
+    "223489715711",
+    "223492148503"
+  ],
+  "new": 17,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2024-06",
+  "posts": [
+    {
+      "id": "223468137632",
+      "title": "중국 남자들의 요리",
+      "publishedAt": "2024-06-04T00:18+09:00",
+      "sourceHash": "24979e9acce413595a686aad35c96b6167fdc2e4ba72171003dfd3717525e29d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223470967865",
+      "title": "<아메리칸 팝아트 거장전> 관람 후기",
+      "publishedAt": "2024-06-06T16:32+09:00",
+      "sourceHash": "fc223b60f4f15df9bfc60604024ad5567edea790782a9579e4f262cb14255a69",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223476809118",
+      "title": "敕勒歌 칙륵가 - 北朝民歌 북조민요",
+      "publishedAt": "2024-06-12T11:34+09:00",
+      "sourceHash": "4b17a3dfee9b2eb8fbfca03115026c4662ea1d411a1c9f2c4c2ef4c7f4cd9ea0",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223477683081",
+      "title": "종강!! 롯데월드",
+      "publishedAt": "2024-06-13T02:42+09:00",
+      "sourceHash": "4f91e13295e7cb7159c2b334d1b7eccb62e06a70f9c1fb7b4db319444a73417c",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223478774979",
+      "title": "중국어 찬양 - 耶和华是爱 여호와는 사랑",
+      "publishedAt": "2024-06-14T00:36+09:00",
+      "sourceHash": "3b6daad046c251759f18e55d8360c3cd13ad5cc1ee0c041f5de33b19bb0f59aa",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223479720858",
+      "title": "케일 중국어로? 羽衣甘蓝, 케일 스무디 조합",
+      "publishedAt": "2024-06-14T21:14+09:00",
+      "sourceHash": "4da385ff7242fd07594fe225252c3632a1551ae06d231630472a98a6a5feac0b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223480398608",
+      "title": "문진 중국어로? 镇纸",
+      "publishedAt": "2024-06-15T17:45+09:00",
+      "sourceHash": "c0a2b2646948960a39465f1087d05d2b7c37ef8f0cfa9e291531ef9ee9c78a61",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223481349837",
+      "title": "<2024 콘텐츠가 전부다>",
+      "publishedAt": "2024-06-16T21:38+09:00",
+      "sourceHash": "28b83cc4b36e1688f07c972a34ef3ace5bf931831b38df0b024b9be37ec25b5a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223481907254",
+      "title": "쌀 또우장 大米豆浆 - 두유제조기 레시피",
+      "publishedAt": "2024-06-17T12:18+09:00",
+      "sourceHash": "de478bf73454402dd834249ffaf298c532317ea428f7d756215bb2e8eb06094b",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223483528690",
+      "title": "시 외우기, 필사 - 赠刘景文/苏轼",
+      "publishedAt": "2024-06-18T17:56+09:00",
+      "sourceHash": "6cf601a782288d40a73f0c1a548e407d0458b4c607193170f9cd81bdf600a741",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223484492687",
+      "title": "QS 중국대학 순위",
+      "publishedAt": "2024-06-19T15:02+09:00",
+      "sourceHash": "74d1cd9c37340d8897a01393a7289e6917f9a576e8e56e9084e194c7feca910a",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223485640657",
+      "title": "新与旧? 새로움의 반대말?",
+      "publishedAt": "2024-06-20T14:49+09:00",
+      "sourceHash": "d855fcc62e406e325fd6000ee4d41e2a0c5270ebdf227bc5d4a880f85c479e4d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223486714195",
+      "title": "인구 국가비상사태 중국어로? 人口国家紧急状态",
+      "publishedAt": "2024-06-21T13:57+09:00",
+      "sourceHash": "6225c891bade47a1ba6815cfc4b66e16d5d16dde4306e322eeb60e685030fb7d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223488897192",
+      "title": "중국에서 쓰는 한국어 유행어 - 思密达, 欧巴, 欧尼, wuli, 阿尼哈塞哟, 康桑哈密达, 撒浪嘿",
+      "publishedAt": "2024-06-23T23:36+09:00",
+      "sourceHash": "310a466a82758ab9aa5873539243670e4332366ba9c9515902c25a0c18c68f3d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223489562600",
+      "title": "<한국 고대사를 생각한다>, 최태영",
+      "publishedAt": "2024-06-24T15:26+09:00",
+      "sourceHash": "85ca601122bf5706d0497423309b9f9ffd40e40bb04e3f149b9326fe1c3407b7",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223489715711",
+      "title": "중국 대학 순위 (软科 롼커 / 校友会 교우회 / QS)",
+      "publishedAt": "2024-06-24T17:25+09:00",
+      "sourceHash": "be5bdf27392d301323716c20ac74a89ea80ecb10f5129e658b11c6d3fde310cf",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223492148503",
+      "title": "중국은 축의금 얼마 할까? 份子钱 / 随份子 / 随礼",
+      "publishedAt": "2024-06-26T17:04+09:00",
+      "sourceHash": "663bdeaf03edc60fb0b510f98670e79d467b7780fb819a3317082ceb0a79a461",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

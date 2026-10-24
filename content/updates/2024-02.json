@@ -1,0 +1,54 @@
+{
+  "checkedAt": "2026-10-24T22:43:41+09:00",
+  "coverage": {
+    "pagesScanned": 7,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 210,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223346026473",
+    "223348581625",
+    "223356359387",
+    "223357550303"
+  ],
+  "new": 4,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2024-02",
+  "posts": [
+    {
+      "id": "223346026473",
+      "title": "龙行龘龘, 前程朤朤, 生活䲜䲜 - 2024 중국어 새해 인사말",
+      "publishedAt": "2024-02-06T16:45+09:00",
+      "sourceHash": "073e17978b04a92662e80559258c3fe9e79d42e832e49cb5f6b177187a55a3a1",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223348581625",
+      "title": "중드 <아문적번역관 我们的翻译官> ep.3 - 信达雅",
+      "publishedAt": "2024-02-08T22:42+09:00",
+      "sourceHash": "520c1b2842bc401c3ad666b451288602d14a0407ac24d8266e9cdca7e6d9a409",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223356359387",
+      "title": "쇼로스 Chôros NO.1 - 肖罗曲第一号",
+      "publishedAt": "2024-02-17T11:37+09:00",
+      "sourceHash": "77aaf8e2a428ea8567142fbcd1f54e4e747deb398596a0f42c89b23b62c824ec",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223357550303",
+      "title": "이백의 <장진주 将进酒>에서 饮者 의 뜻",
+      "publishedAt": "2024-02-18T20:38+09:00",
+      "sourceHash": "358493ef50c682d30ef77840902e86b82a4fa45a6bc37a5b082dbec61c6eb545",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

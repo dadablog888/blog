@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-24T22:46:31+09:00",
+  "coverage": {
+    "pagesScanned": 7,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 210,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223434122679",
+    "223436406621",
+    "223460071104",
+    "223461742380",
+    "223462181439",
+    "223463398218"
+  ],
+  "new": 6,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2024-05",
+  "posts": [
+    {
+      "id": "223434122679",
+      "title": "오케스트라, 필하모닉 중국어로? 管弦乐团, 爱乐乐团",
+      "publishedAt": "2024-05-02T15:29+09:00",
+      "sourceHash": "61c9e18c43f36a914a506490b80313177ac0b02ac62c45004e48ab68f95d8849",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223436406621",
+      "title": "국회의사당 참관, 더현대 도토리 가든",
+      "publishedAt": "2024-05-04T19:22+09:00",
+      "sourceHash": "5ff86e20d32cd3e092d937373c2c5f276008c000a23d5f134ef5f001d57ad267",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223460071104",
+      "title": "갑상선 甲状腺",
+      "publishedAt": "2024-05-27T16:35+09:00",
+      "sourceHash": "1a7dc0bb0e6f988659d52dd6e050388f0b81145bd803f9b35cd3e047cc9e2256",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223461742380",
+      "title": "낚시, 낚시대, 미끼, 입질 중국어로? 钓鱼/钓杆/鱼饵/上钩",
+      "publishedAt": "2024-05-29T00:56+09:00",
+      "sourceHash": "d05b3308668bf8e3ea5c9e02b209e2be027ab462da09fff4425b3843cc34e61d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223462181439",
+      "title": "중국 간식과 차 - 米酿, 茶酥, 碧螺春, 沱茶/饼茶/砖茶",
+      "publishedAt": "2024-05-29T13:01+09:00",
+      "sourceHash": "3197b7fcc7a6b14c69edc96588b924e495bd2646c3b7fca03d1f4c30114c406e",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223463398218",
+      "title": "또우장 건강죽 - 두유 제조기 레시피 1",
+      "publishedAt": "2024-05-30T13:49+09:00",
+      "sourceHash": "4e7745df79add32cd31aaf2508b9d6ffcef5abcdfc2cf7b841f28079c502d9d7",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

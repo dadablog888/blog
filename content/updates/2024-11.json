@@ -1,0 +1,90 @@
+{
+  "checkedAt": "2026-10-24T23:00:35+09:00",
+  "coverage": {
+    "pagesScanned": 4,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 120,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223644980214",
+    "223651888233",
+    "223653301615",
+    "223661559156",
+    "223665541083",
+    "223667913124",
+    "223672888820",
+    "223675083841"
+  ],
+  "new": 8,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2024-11",
+  "posts": [
+    {
+      "id": "223644980214",
+      "title": "번역의 미래",
+      "publishedAt": "2024-11-03T14:40+09:00",
+      "sourceHash": "baf2d7531fea1aba26580696f76317a4b666b7a721b383991a48b8e6987d6192",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223651888233",
+      "title": "대선 개표, 유권자 중국어로? 点票 / 选民 / 拉票 / 选举人票 / 摇摆州",
+      "publishedAt": "2024-11-08T10:22+09:00",
+      "sourceHash": "96101efd2ff21a653c244c33e4ea72cd5d7d75e6061a34e9eb6cb20ea47a8cf9",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223653301615",
+      "title": "의외의 한자어 - 사랑 思量, 사과 谢过, 동네 洞内, 무당 巫堂, 김치 沈菜 어원",
+      "publishedAt": "2024-11-09T12:11+09:00",
+      "sourceHash": "fed5fdc028a0dc95f71338886de9c8645fbc33d25713e8c980dece2e1edf73ca",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223661559156",
+      "title": "포케 중국어로? Poke饭 / 波奇饭 / 夏威夷盖浇饭",
+      "publishedAt": "2024-11-15T12:50+09:00",
+      "sourceHash": "4c36b74e72d6ac9abcc0125fb28be2671c468306d631e2a8d16cbf8b8fd3f413",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223665541083",
+      "title": "[중국어큐티] 20241118 务要传道",
+      "publishedAt": "2024-11-19T00:04+09:00",
+      "sourceHash": "69d098edc6b52efc13896a31e41b7cb8d7be48fe18ff5636dcfb1868a7ed364d",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223667913124",
+      "title": "数字人 디지털 휴먼, 数智化 디지털 인텔리전스(DI)",
+      "publishedAt": "2024-11-21T02:12+09:00",
+      "sourceHash": "55ba7375fd060f71ea0f09f2a076152b9634752f461a01997d81806824798896",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223672888820",
+      "title": "타오바오 직구 추천템 - 중국 대추, 아교 阿胶, 4색 건포도, 호두대추파이, 잣",
+      "publishedAt": "2024-11-26T01:20+09:00",
+      "sourceHash": "cae3825448cf72683c0e7fb6e5a36a3eca400cf1b3dff853c81ab41b982f2249",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223675083841",
+      "title": "상하이 3대 마천루 上海三件套",
+      "publishedAt": "2024-11-27T21:14+09:00",
+      "sourceHash": "3a31f0f61e267c1d12630fd15a3e119b06e644a9d24584a5938dd25069d707f3",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}

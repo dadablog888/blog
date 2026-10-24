@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-10-24T22:45:46+09:00",
+  "coverage": {
+    "pagesScanned": 7,
+    "reportedPublicPosts": 814,
+    "listingRowsSeen": 210,
+    "boundaryReached": true
+  },
+  "postIds": [
+    "223402516393",
+    "223418031118",
+    "223426800989"
+  ],
+  "new": 3,
+  "changed": 0,
+  "unchanged": 0,
+  "status": "complete",
+  "period": "2024-04",
+  "posts": [
+    {
+      "id": "223402516393",
+      "title": "饽饽",
+      "publishedAt": "2024-04-01T20:48+09:00",
+      "sourceHash": "85ae77f42a2cba71a5e33fba9ce78e95a89cf405397e6dafc8b12e66a4da8dde",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223418031118",
+      "title": "린후이인 林徽因, <연등>(莲灯), 논문번역 4년차",
+      "publishedAt": "2024-04-17T10:18+09:00",
+      "sourceHash": "1dbbac4a2ae324b85975b7999ccde49e9f1a1da0ff4b2c13627a42db47c0c3fe",
+      "status": "new",
+      "inRequestedPeriod": true
+    },
+    {
+      "id": "223426800989",
+      "title": "리자치 李佳琪 카페, NEVER MIND CAFE",
+      "publishedAt": "2024-04-25T13:57+09:00",
+      "sourceHash": "39e16e7e555a6cd857c8b0c2926ef4250a6d7dace07e613a0a7cf79d1e0a489c",
+      "status": "new",
+      "inRequestedPeriod": true
+    }
+  ]
+}
