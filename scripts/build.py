@@ -248,7 +248,9 @@ def build_post(post):
         body += '<section><h2>관련 검색 주제</h2><ul class="keywords">' + ''.join('<li>' + esc(k) + '</li>' for k in post['keywords']) + '</ul></section>'
     body += f'''<section class="original-callout"><h2>네이버 원문에서 이어 읽기</h2><p>원문 제목: {esc(post['originalTitle'] or '공백 제목')}</p><a class="original-link" href="{post['sourceUrl']}">네이버 블로그에서 전체 글 읽기 ↗</a><p class="source-url">{post['sourceUrl']}</p></section><p class="note">이 페이지는 실제 확인한 원문을 바탕으로 새로 작성한 소개와 요약입니다. 원문 게시일과 소개 페이지의 확인·수정일은 구분해 표시합니다.</p></article>'''
     related = [next(p for p in POSTS if p['id'] == id_) for id_ in post['related']]
-    body += f'<section class="related"><h2>함께 읽기</h2><ul>' + ''.join(f'<li><a href="{local(post_path(p))}">{esc(p["title"])}</a></li>' for p in related) + f'</ul></section><nav class="article-navigation" aria-label="글 탐색"><a href="{local(topic_path(post["topic"]))}">{topic["name"]} 글 목록</a><a href="{local("archive/" + key + "/")}">{year}년 {int(month)}월 글 목록</a><a href="{local("archive/")}">전체 기록</a></nav></main>'
+    if related:
+        body += '<section class="related"><h2>함께 읽기</h2><ul>' + ''.join(f'<li><a href="{local(post_path(p))}">{esc(p["title"])}</a></li>' for p in related) + '</ul></section>'
+    body += f'<nav class="article-navigation" aria-label="글 탐색"><a href="{local(topic_path(post["topic"]))}">{topic["name"]} 글 목록</a><a href="{local("archive/" + key + "/")}">{year}년 {int(month)}월 글 목록</a><a href="{local("archive/")}">전체 기록</a></nav></main>'
     save_page(path, post['title'] + ' | 다다중국어', post['description'], body, [schema, crumb_schema], [post], post.get('noindex', False))
 
 

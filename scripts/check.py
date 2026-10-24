@@ -232,6 +232,7 @@ def check_growth():
             post['id'] = f'growth-test-{i}'
             post['slug'] = f'growth-test-{i}'
             post['title'] = f'테스트용 기록 {i}'
+            post['topic'] = 'food-and-tea'
             stamp = datetime(2026, 12, 1, tzinfo=timezone(timedelta(hours=9))) + timedelta(days=i)
             post['publishedAt'] = stamp.isoformat()
             post['introUpdatedOn'] = stamp.date().isoformat()
